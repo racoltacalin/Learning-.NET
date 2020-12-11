@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\bin\Debug\netcoreapp3.1\DemoLibraries.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\bin\Debug\netcoreapp3.1\DemoLibraries.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\bin\Debug\netcoreapp3.1\DemoLibraries.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\bin\Debug\netcoreapp3.1\DemoLibraries.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\bin\Debug\netcoreapp3.1\DemoLibraries.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\bin\Debug\netcoreapp3.1\DemoLibraries.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\obj\Debug\netcoreapp3.1\DemoLibraries.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\obj\Debug\netcoreapp3.1\DemoLibraries.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\obj\Debug\netcoreapp3.1\DemoLibraries.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\obj\Debug\netcoreapp3.1\DemoLibraries.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\obj\Debug\netcoreapp3.1\DemoLibraries.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\obj\Debug\netcoreapp3.1\DemoLibraries.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\DemoLibraries\obj\Debug\netcoreapp3.1\DemoLibraries.genruntimeconfig.cache
