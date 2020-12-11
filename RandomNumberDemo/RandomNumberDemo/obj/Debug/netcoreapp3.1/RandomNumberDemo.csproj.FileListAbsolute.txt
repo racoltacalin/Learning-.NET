@@ -1,0 +1,12 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\bin\Debug\netcoreapp3.1\RandomNumberDemo.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\bin\Debug\netcoreapp3.1\RandomNumberDemo.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\bin\Debug\netcoreapp3.1\RandomNumberDemo.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\bin\Debug\netcoreapp3.1\RandomNumberDemo.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\bin\Debug\netcoreapp3.1\RandomNumberDemo.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\bin\Debug\netcoreapp3.1\RandomNumberDemo.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\obj\Debug\netcoreapp3.1\RandomNumberDemo.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\obj\Debug\netcoreapp3.1\RandomNumberDemo.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\obj\Debug\netcoreapp3.1\RandomNumberDemo.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\obj\Debug\netcoreapp3.1\RandomNumberDemo.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\obj\Debug\netcoreapp3.1\RandomNumberDemo.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\RandomNumbers\RandomNumberDemo\RandomNumberDemo\obj\Debug\netcoreapp3.1\RandomNumberDemo.genruntimeconfig.cache
