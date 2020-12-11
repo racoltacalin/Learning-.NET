@@ -1,0 +1,17 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\bin\Debug\netcoreapp3.1\DemoLibraries.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\bin\Debug\netcoreapp3.1\Interface_Learning.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\bin\Debug\netcoreapp3.1\Interface_Learning.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\bin\Debug\netcoreapp3.1\Interface_Learning.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\bin\Debug\netcoreapp3.1\Interface_Learning.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\bin\Debug\netcoreapp3.1\Interface_Learning.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\bin\Debug\netcoreapp3.1\Interface_Learning.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\bin\Debug\netcoreapp3.1\DemoLibraries.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\bin\Debug\netcoreapp3.1\DemoLibraries.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\obj\Debug\netcoreapp3.1\Interface_Learning.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\obj\Debug\netcoreapp3.1\Interface_Learning.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\obj\Debug\netcoreapp3.1\Interface_Learning.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\obj\Debug\netcoreapp3.1\Interface_Learning.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\obj\Debug\netcoreapp3.1\Interface_Learning.csproj.CopyComplete
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\obj\Debug\netcoreapp3.1\Interface_Learning.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\obj\Debug\netcoreapp3.1\Interface_Learning.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Access Modifiers\AccessModifiers\Interface_Learning\Interface_Learning\obj\Debug\netcoreapp3.1\Interface_Learning.genruntimeconfig.cache
