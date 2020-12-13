@@ -8,26 +8,55 @@ namespace Generics
     {
         static void Main(string[] args)
         {
+            /* Not ok to use ArrayList
             ArrayList list = new ArrayList();
 
             list.Add(23);
             list.Add("Hello");
 
-            List<int> ages = new List<int>();
+            int val = (int)list[1]; => Not working*/
 
-            ages.Add(23);
+            //List<int> ages = new List<int>();
+            //var ages = new List<int>();
+
+            //ages.Add(23);
+            //ages.Add("Hello");
+
 
             Console.WriteLine();
-            Console.WriteLine("Press enter to shut down...");
+            Console.Write("Press enter to shut down...");
             Console.ReadLine();
         }
 
         private static void DemonstrateTextFileStorage()
-        { 
+        {
+            var people = new List<Person>();
+            var logs = new List<LogEntry>();
+
+            string peopleFile = @"C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Generics\Generics\people.csv.xlsx";
+            string logFile = @"C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Generics\Generics\logs.csv.xlsx";
+
+            PopulateLists(people, logs);
+
+            OriginalTextFileProcessor.SavePeople(people, peopleFile);
+
+            var newPeople = OriginalTextFileProcessor.LoadPeople(peopleFile);
+
+            foreach (var p in newPeople)
+            {
+                Console.WriteLine($"{ p.FirstName } { p.LastName } (IsAlive = { p.IsAlive })");
+            }
         }
 
         private static void PopulateLists(List<Person> people, List<LogEntry> logs)
-        { 
+        {
+            people.Add(new Person { FirstName = "Calin", LastName = "Corey" });
+            people.Add(new Person { FirstName = "Sue", LastName = "Storm", IsAlive = false });
+            people.Add(new Person { FirstName = "Greg", LastName = "Olso" });
+
+            logs.Add(new LogEntry { Message = "I blew up", ErrorCode = 9999 });
+            logs.Add(new LogEntry { Message = "I'm too awesome", ErrorCode = 1337 });
+            logs.Add(new LogEntry { Message = "I was tired", ErrorCode = 2222 });
         }
     }
 }
