@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections;
+using Generics.WithGenerics;
 
 namespace Generics
 {
@@ -22,7 +23,7 @@ namespace Generics
             //ages.Add(23);
             //ages.Add("Hello");
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
             DemonstrateTextFileStorage();
 
@@ -41,14 +42,36 @@ namespace Generics
 
             PopulateLists(people, logs);
 
-            OriginalTextFileProcessor.SaveLogs(logs, logFile);
+            /* New way of doing things - generics! */
+            GenericTextFileProcessor.SaveToTextFile<Person>(people, peopleFile);
+            GenericTextFileProcessor.SaveToTextFile<LogEntry>(logs, logFile);
 
-            var newLogs = OriginalTextFileProcessor.LoadLogs(logFile);
+            var newPeople = GenericTextFileProcessor.LoadFromTextFile<Person>(peopleFile);
+
+            foreach (var p in newPeople)
+            {
+                Console.WriteLine($"{ p.FirstName } { p.LastName } (IsAlive = { p.IsAlive })");
+            }
+
+            Console.WriteLine();
+
+            var newLogs = GenericTextFileProcessor.LoadFromTextFile<LogEntry>(logFile);
 
             foreach (var log in newLogs)
             {
                 Console.WriteLine($"{ log.ErrorCode }: { log.Message } at { log.TimeOfEvent.ToShortTimeString() }");
             }
+
+            /* Old way of doing things - non-generics! */
+
+            //OriginalTextFileProcessor.SaveLogs(logs, logFile);
+
+            //var newLogs = OriginalTextFileProcessor.LoadLogs(logFile);
+
+            //foreach (var log in newLogs)
+            //{
+            //    Console.WriteLine($"{ log.ErrorCode }: { log.Message } at { log.TimeOfEvent.ToShortTimeString() }");
+            //}
 
             //OriginalTextFileProcessor.SavePeople(people, peopleFile);
 
@@ -66,9 +89,9 @@ namespace Generics
             people.Add(new Person { FirstName = "Sue", LastName = "Storm", IsAlive = false });
             people.Add(new Person { FirstName = "Greg", LastName = "Olso" , IsAlive = true });
 
-            logs.Add(new LogEntry { Message = "I blew up", ErrorCode = 9999 });
-            logs.Add(new LogEntry { Message = "I'm too awesome", ErrorCode = 1337 });
-            logs.Add(new LogEntry { Message = "I was tired", ErrorCode = 2222 });
+            logs.Add(new LogEntry { ErrorCode = 9999, Message = "I blew up" });
+            logs.Add(new LogEntry { ErrorCode = 1337, Message = "I'm too awesome" });
+            logs.Add(new LogEntry { ErrorCode = 2222, Message = "I was tired" });
         }
     }
 }

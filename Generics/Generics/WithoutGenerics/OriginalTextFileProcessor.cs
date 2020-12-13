@@ -68,6 +68,7 @@ namespace Generics
 
             System.IO.File.WriteAllLines(filePath, lines);
         }
+
         public static void SaveLogs(List<LogEntry> logs, string filePath)
         {
             var lines = new List<string>();
@@ -77,7 +78,7 @@ namespace Generics
 
             foreach (var log in logs)
             {
-                lines.Add($"{ log.Message},{ log.ErrorCode },{ log.TimeOfEvent }");
+                lines.Add($"{ log.ErrorCode},{ log.Message },{ log.TimeOfEvent }");
             }
 
             System.IO.File.WriteAllLines(filePath, lines);
