@@ -26,12 +26,12 @@ namespace WinFormUI
 
         private void LoadTestingData()
         {
-            customer.CustomerName = "Tim Corey";
+            customer.CustomerName = "Calin Racolta";
             customer.CheckingAccount = new Account();
             customer.SavingsAccount = new Account();
 
-            customer.CheckingAccount.AccountName = "Tim's Checking Account";
-            customer.SavingsAccount.AccountName = "Tim's Savings Account";
+            customer.CheckingAccount.AccountName = "Calin's Checking Account";
+            customer.SavingsAccount.AccountName = "Calin's Savings Account";
 
             customer.CheckingAccount.AddDeposit("Initial Balance", 155.43M);
             customer.SavingsAccount.AddDeposit("Initial Balance", 98.45M);
