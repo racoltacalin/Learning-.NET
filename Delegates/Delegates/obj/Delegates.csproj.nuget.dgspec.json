@@ -154,7 +154,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\racol\\OneDrive\\Desktop\\C# Learning\\Learning_C#\\Learning-.NET\\Delegates\\DemoLibrary\\DemoLibrary.csproj": {
+                "projectPath": "C:\\Users\\racol\\OneDrive\\Desktop\\C# Learning\\Learning_C#\\Learning-.NET\\Delegates\\DemoLibrary\\DemoLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -13,3 +13,7 @@ C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\
 C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.dll
 C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.pdb
 C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.genruntimeconfig.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\bin\Debug\netcoreapp3.1\DemoLibrary.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.csproj.CopyComplete

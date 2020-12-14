@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "WinFormUI/1.0.0": {
+        "dependencies": {
+          "DemoLibrary": "1.0.0"
+        },
         "runtime": {
           "WinFormUI.dll": {}
+        }
+      },
+      "DemoLibrary/1.0.0": {
+        "runtime": {
+          "DemoLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "WinFormUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
