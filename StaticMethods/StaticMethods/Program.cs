@@ -19,7 +19,19 @@ namespace StaticMethods
     {
         static void Main(string[] args)
         {
+            var arrArg = new int[] { 1, 2, 3, 4 };
 
+            Console.Write("Before ModifyArray() the argument is: ");
+            PrintArray(arrArg);
+            Console.WriteLine();
+
+            //Modifying the array's argument
+            ModifyArray(arrArg);
+            Console.WriteLine();
+
+            Console.Write("After ModifyArray() the param is: ");
+            PrintArray(arrArg);
+            Console.WriteLine();
 
             Console.ReadLine();
         }
@@ -36,6 +48,27 @@ namespace StaticMethods
             Console.WriteLine("www.microsoft.com");
         }
 
+        public static void ModifyArray(int[] arrParam)
+        {
+            arrParam[0] = 5;
+            Console.Write("In ModifyArray() the param is: ");
+            PrintArray(arrParam);
+        }
 
+        public static void PrintArray(int[] arrParam)
+        {
+            Console.Write("[");
+            int length = arrParam.Length;
+
+            if (length > 0)
+            {
+                Console.Write(arrParam[0].ToString());
+                for (int i = 1; i < length; i++)
+                {
+                    Console.Write(", {0}", arrParam[i]);
+                }
+            }
+            Console.Write("]");
+        }
     }
 }
