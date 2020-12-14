@@ -1,0 +1,15 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\bin\Debug\netcoreapp3.1\WinFormUI.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\bin\Debug\netcoreapp3.1\WinFormUI.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\bin\Debug\netcoreapp3.1\WinFormUI.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\bin\Debug\netcoreapp3.1\WinFormUI.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\bin\Debug\netcoreapp3.1\WinFormUI.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\bin\Debug\netcoreapp3.1\WinFormUI.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.Form1.resources
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.csproj.GenerateResource.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Delegates\WinFormUI\obj\Debug\netcoreapp3.1\WinFormUI.genruntimeconfig.cache
