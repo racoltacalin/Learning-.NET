@@ -1,6 +1,7 @@
 ﻿ using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -50,6 +51,16 @@ namespace DemoLibrary
                         // We have enough backup funds so transfar the amount to this account
                         // and then complete the transaction.
                         decimal amountNeeded = amount - Balance;
+
+                        var args = new OverDraftEventArgs(amountNeeded, "Extra Info");
+
+                        OverdraftEvent?.Invoke(this, args);
+
+                        if (args.CancelTransaction == true)
+                        {
+                            return false;
+                        }
+
                         bool overdraftSucceeded = backupAccount.MakePayment("Overdraft Protection", amountNeeded);
 
                         // This should always be true but we will check anyway
@@ -64,7 +75,7 @@ namespace DemoLibrary
                         _transactions.Add($"Withdrew { string.Format("{0:C2}", amount) } for { paymentName }");
                         Balance -= amount;
                         TransactionApprovedEvent?.Invoke(this, paymentName);
-                        OverdraftEvent?.Invoke(this, new OverDraftEventArgs { AmountOverdrafted = amountNeeded, MoreInfo ="Extra Info" });
+                        
 
                         return true;
                     }

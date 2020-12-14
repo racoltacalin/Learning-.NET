@@ -53,6 +53,7 @@ namespace WinFormUI
         private void CheckingAccount_OverdraftEvent(object sender, OverDraftEventArgs e)
         {
             errorMessage.Text = $"You had an overdraft protection transfer of { string.Format("{0:C2}", e.AmountOverdrafted) }";
+            e.CancelTransaction = denyOverdraft.Checked;
             errorMessage.Visible = true;
         }
 
@@ -89,6 +90,11 @@ namespace WinFormUI
         }
 
         private void Dashboard_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void denyOverdraft_CheckedChanged(object sender, EventArgs e)
         {
 
         }
