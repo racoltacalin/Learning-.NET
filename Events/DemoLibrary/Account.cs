@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,10 @@ namespace DemoLibrary
 {
     public class Account
     {
+        public event EventHandler<string> TransactionApprovedEvent; 
+
         public string AccountName { get; set; }
+
         public decimal Balance { get; private set; }
 
         private List<string> _transactions = new List<string>();
@@ -22,6 +25,7 @@ namespace DemoLibrary
         {
             _transactions.Add($"Deposited { string.Format("{0:C2}", amount) } for { depositName }");
             Balance += amount;
+            TransactionApprovedEvent?.Invoke(this, depositName);
             return true;
         }
 
@@ -32,6 +36,7 @@ namespace DemoLibrary
             {
                 _transactions.Add($"Withdrew { string.Format("{0:C2}", amount) } for { paymentName }");
                 Balance -= amount;
+                TransactionApprovedEvent?.Invoke(this, paymentName);
                 return true;
             }
             else
@@ -58,6 +63,7 @@ namespace DemoLibrary
 
                         _transactions.Add($"Withdrew { string.Format("{0:C2}", amount) } for { paymentName }");
                         Balance -= amount;
+                        TransactionApprovedEvent?.Invoke(this, paymentName);
 
                         return true;
                     }

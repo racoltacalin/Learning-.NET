@@ -196,6 +196,7 @@
             this.Name = "Dashboard";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Banking Dashboard - A C# Events Demo by Tim Corey";
+            this.Load += new System.EventHandler(this.Dashboard_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

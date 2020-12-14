@@ -27,5 +27,10 @@ namespace WinFormUI
             bool paymentResult = _customer.CheckingAccount.MakePayment("Credit Card Purchase", amountValue.Value, _customer.SavingsAccount);
             amountValue.Value = 0;
         }
+
+        private void Transactions_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
