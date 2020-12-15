@@ -19,6 +19,7 @@ namespace StaticMethods
     {
         static void Main(string[] args)
         {
+            /*
             var arrArg = new int[] { 1, 2, 3, 4 };
 
             Console.Write("Before ModifyArray() the argument is: ");
@@ -27,13 +28,42 @@ namespace StaticMethods
 
             //Modifying the array's argument
             ModifyArray(arrArg);
-            Console.WriteLine();
+            Console.WriteLine(); 
 
             Console.Write("After ModifyArray() the param is: ");
             PrintArray(arrArg);
             Console.WriteLine();
 
             Console.ReadLine();
+            */
+
+            /*
+            var dog = new Dog();
+
+            Console.WriteLine("Dog's name is: " + dog.name);
+            Console.WriteLine("Dog's age is: " + dog.age);
+            Console.WriteLine("Dog's length is: " + dog.length);
+            Console.WriteLine("Dog is male: " + dog.isMale);
+            */
+
+            /*
+            Console.WriteLine(PI);
+            Console.WriteLine(ConstAndReadOnlyExample.PI);
+            var instance = new ConstAndReadOnlyExample(5);
+            Console.WriteLine(instance.Size);
+
+            // Compile-time error: cannot access PI like a field
+            Console.WriteLine(instance.PI);
+            // Compile-time error: Size is instance field (non-static)
+            Console.WriteLine(ConstAndReadOnlyExample.Size);
+            // Compile-time error: cannot modify a constant
+            ConstAndReadOnlyExample.PI = 0;
+            // Compile-time error: cannot modify a readonly field
+            instance.Size = 0;
+            */
+
+
+
         }
         
         static double GetRectangleArea(double width, double height)
@@ -69,6 +99,12 @@ namespace StaticMethods
                 }
             }
             Console.Write("]");
+        }
+
+        public static int Add(int number1, int number2)
+        {
+            int result = number1 + number2;
+            return result;
         }
     }
 }
