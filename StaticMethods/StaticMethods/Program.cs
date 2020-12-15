@@ -103,9 +103,31 @@ namespace StaticMethods
             /*
             //Atempt to invoke non-static method from a static context
             PrintAge(); //INVALID
+            this.PrintAge(); // INVALID
+            */
+
+            /*
+            var myRabbit = new Rabbit("Lassie", 3);
+            var myRabbitName = myRabbit.name;
+            Console.WriteLine("My rabbit \"" + myRabbit.name + "\" has age of ");
+            myRabbit.PrintAge();
+            Console.WriteLine(" years");
+            */
+
+            /*
+            var sysInfoInstance = new SystemInfo();
+            //Console.WriteLine("System version: " + sysInfoInstance.Version); // INVALID
+
+            // Invocation of static property setter
+            SystemInfo.Vendor = "Microsoft Corporation";
+
+            // Invocation of static property getters
+            Console.WriteLine("System version: " + SystemInfo.Version);
+            Console.WriteLine("System vendor: " + SystemInfo.Vendor);
             */
 
 
+            Console.WriteLine(SqrtPrecalculated.GetSqrt(254));
 
             Console.ReadLine();
         }

@@ -10,7 +10,7 @@ namespace StaticMethods
         static int rabbitCount;
 
         // Instance variables;
-        private string name;
+        public string name;
         private int age;
 
         public Rabbit(string name, int age)
