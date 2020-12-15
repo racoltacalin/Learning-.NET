@@ -15,7 +15,7 @@
 
 namespace StaticMethods
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -72,6 +72,40 @@ namespace StaticMethods
             Console.WriteLine("My cat's name is " + myCat.Name);
             myCat.DoSomething();
             */
+
+            /*
+            var bear1 = new Bear("Jackie", 1);
+            var bear2 = new Bear("Lassy", 2);
+            var bear3 = new Bear("Relu", 3);
+
+            Console.WriteLine("Bear count is now " + Bear.bearCount);
+            */
+
+            /*
+            var rabbit = new Rabbit("Monty", 3);
+            rabbit.PrintInfo();
+            */
+
+            /*
+            var circle = new Circle(3);
+            circle.PrintSturface();
+            */
+
+            /*
+            double radius = 5;
+
+            // Accessing static method from other static method
+            double circlePerimeter = CalculateCirclePerimeter(radius);
+
+            Console.WriteLine("Circle with radius " + radius + " has perimeter: " + circlePerimeter);
+            */
+
+            /*
+            //Atempt to invoke non-static method from a static context
+            PrintAge(); //INVALID
+            */
+
+
 
             Console.ReadLine();
         }
