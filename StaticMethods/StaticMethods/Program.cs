@@ -62,8 +62,18 @@ namespace StaticMethods
             instance.Size = 0;
             */
 
+            /*
+            var instance = new OverlappingScopeTest();
+            instance.PrintMyValue();
+            */
 
+            /*
+            var myCat = new Cat();
+            Console.WriteLine("My cat's name is " + myCat.Name);
+            myCat.DoSomething();
+            */
 
+            Console.ReadLine();
         }
         
         static double GetRectangleArea(double width, double height)

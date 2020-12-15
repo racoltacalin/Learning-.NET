@@ -10,11 +10,15 @@ namespace StaticMethods
         public int age = 0;
         public int length = 0;
         public bool isMale = false;
-    }
+        
 
-    public void MakeOlder()
-    {
-        //this.age++;
+        public int GetAge()
+        {
+            return this.age;
+        }
+        public void MakeOlder()
+        {
+            this.age++;
+        }
     }
-
 }
