@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\bin\Debug\netcoreapp3.1\School.exe
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\bin\Debug\netcoreapp3.1\School.deps.json
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\bin\Debug\netcoreapp3.1\School.dll
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\bin\Debug\netcoreapp3.1\School.pdb
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\obj\Debug\netcoreapp3.1\School.dll
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\obj\Debug\netcoreapp3.1\School.pdb
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+C:\Users\racol\OneDrive\Desktop\C#_FOREVER\December_16_2020\School\School\obj\Debug\netcoreapp3.1\School.csprojAssemblyReference.cache
