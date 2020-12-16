@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\bin\Debug\netcoreapp3.1\AboutStatic.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\bin\Debug\netcoreapp3.1\AboutStatic.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\bin\Debug\netcoreapp3.1\AboutStatic.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\bin\Debug\netcoreapp3.1\AboutStatic.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\bin\Debug\netcoreapp3.1\AboutStatic.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\bin\Debug\netcoreapp3.1\AboutStatic.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\obj\Debug\netcoreapp3.1\AboutStatic.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\obj\Debug\netcoreapp3.1\AboutStatic.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\obj\Debug\netcoreapp3.1\AboutStatic.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\obj\Debug\netcoreapp3.1\AboutStatic.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\obj\Debug\netcoreapp3.1\AboutStatic.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\obj\Debug\netcoreapp3.1\AboutStatic.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AboutStatic\AboutStatic\obj\Debug\netcoreapp3.1\AboutStatic.genruntimeconfig.cache
