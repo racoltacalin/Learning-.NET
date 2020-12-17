@@ -40,17 +40,17 @@ namespace AsyncAwait
         }
 
 
-        //private void executeAsync_Click(object sender, RoutedEventArgs e)
-        //{
-        //    var watch = System.Diagnostics.Stopwatch.StartNew();
+        private async void executeAsync_Click(object sender, RoutedEventArgs e)
+        {
+            var watch = System.Diagnostics.Stopwatch.StartNew();
 
-        //    await RunDownloadParallelAsync();
+            await RunDownloadAsync();
 
-        //    watch.Stop();
-        //    var elapseMs = watch.ElapsedMilliseconds;
+            watch.Stop();
+            var elapseMs = watch.ElapsedMilliseconds;
 
-        //    resultsWindow.Text += $"Total execution time : { elapseMs }";
-        //}
+            resultsWindow.Text += $"Total execution time: { elapseMs }";
+        }
 
         private List<string> PrepData()
         {
@@ -68,6 +68,17 @@ namespace AsyncAwait
             return output;
         }
 
+        private async Task RunDownloadAsync()
+        {
+            List<string> websites = PrepData();
+
+            foreach (string site in websites)
+            {
+                WebsiteDataModel results = await Task.Run(() => DownloadWebsite(site));
+                ReportWebsiteInfo(results);
+            }
+        }
+
         private void RunDownloadSync()
         {
             List<string> websites = PrepData();
@@ -76,6 +87,24 @@ namespace AsyncAwait
             {
                 WebsiteDataModel results = DownloadWebsite(site);
                 ReportWebsiteInfo(results);
+            }
+        }
+
+        private async void RunDownloadParallelAsync()
+        {
+            List<string> websites = PrepData();
+            var tasks = new List<Task<WebsiteDataModel>>();
+
+            foreach (string site in websites)
+            {
+                tasks.Add(Task.Run(() => DownloadWebsite(site)));
+            }
+
+            var results = await Task.WhenAll(tasks);
+
+            foreach (var item in results)
+            {
+                ReportWebsiteInfo(item);
             }
         }
 
