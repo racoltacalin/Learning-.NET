@@ -97,7 +97,8 @@ namespace AsyncAwait
 
             foreach (string site in websites)
             {
-                tasks.Add(Task.Run(() => DownloadWebsite(site)));
+                //tasks.Add(Task.Run(() => DownloadWebsite(site)));
+                tasks.Add(DownloadWebsiteAsync(site));
             }
 
             var results = await Task.WhenAll(tasks);
@@ -115,6 +116,17 @@ namespace AsyncAwait
 
             output.WebsiteUrl = websiteURL;
             output.WebsiteData = client.DownloadString(websiteURL);
+
+            return output;
+        }
+
+        private async Task<WebsiteDataModel> DownloadWebsiteAsync(string websiteURL)
+        {
+            var output = new WebsiteDataModel();
+            var client = new WebClient();
+
+            output.WebsiteUrl = websiteURL;
+            output.WebsiteData = await client.DownloadStringTaskAsync(websiteURL);
 
             return output;
         }
