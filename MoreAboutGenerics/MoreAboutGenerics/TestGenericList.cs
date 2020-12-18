@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace MoreAboutGenerics
 {
@@ -7,6 +8,23 @@ namespace MoreAboutGenerics
         private class ExampleClass { }
         static void Main(string[] args)
         {
+            Generic<string> g = new Generic<string>();
+            g.Field = "A string";
+            Console.WriteLine("Generic.Field           = \"{0}\"", g.Field);
+            Console.WriteLine("Generic.Field.GetType() = {0}", g.Field.GetType().FullName);
+
+            
+
+            /*
+            T Generic<T>(T arg)
+            {
+                T temp = arg;
+                //
+                return temp;
+            }
+            */
+
+            /* 
             // int is the type argument
 
             GenericList<int> list = new GenericList<int>();
@@ -21,22 +39,7 @@ namespace MoreAboutGenerics
                 Console.Write(i + " ");
             }
             Console.WriteLine("\n Done");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            */
 
             /* 
             // Declare a list of type int
