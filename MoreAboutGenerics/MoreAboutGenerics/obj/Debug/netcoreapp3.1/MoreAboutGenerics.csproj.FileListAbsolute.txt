@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\bin\Debug\netcoreapp3.1\MoreAboutGenerics.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\bin\Debug\netcoreapp3.1\MoreAboutGenerics.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\bin\Debug\netcoreapp3.1\MoreAboutGenerics.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\bin\Debug\netcoreapp3.1\MoreAboutGenerics.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\bin\Debug\netcoreapp3.1\MoreAboutGenerics.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\bin\Debug\netcoreapp3.1\MoreAboutGenerics.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\obj\Debug\netcoreapp3.1\MoreAboutGenerics.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\obj\Debug\netcoreapp3.1\MoreAboutGenerics.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\obj\Debug\netcoreapp3.1\MoreAboutGenerics.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\obj\Debug\netcoreapp3.1\MoreAboutGenerics.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\obj\Debug\netcoreapp3.1\MoreAboutGenerics.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\obj\Debug\netcoreapp3.1\MoreAboutGenerics.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\MoreAboutGenerics\MoreAboutGenerics\obj\Debug\netcoreapp3.1\MoreAboutGenerics.genruntimeconfig.cache
