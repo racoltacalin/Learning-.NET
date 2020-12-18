@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\bin\Debug\netcoreapp3.1\ObjectType.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\bin\Debug\netcoreapp3.1\ObjectType.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\bin\Debug\netcoreapp3.1\ObjectType.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\bin\Debug\netcoreapp3.1\ObjectType.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\bin\Debug\netcoreapp3.1\ObjectType.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\bin\Debug\netcoreapp3.1\ObjectType.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\obj\Debug\netcoreapp3.1\ObjectType.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\obj\Debug\netcoreapp3.1\ObjectType.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\obj\Debug\netcoreapp3.1\ObjectType.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\obj\Debug\netcoreapp3.1\ObjectType.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\obj\Debug\netcoreapp3.1\ObjectType.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\obj\Debug\netcoreapp3.1\ObjectType.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ObjectType\ObjectType\obj\Debug\netcoreapp3.1\ObjectType.genruntimeconfig.cache
