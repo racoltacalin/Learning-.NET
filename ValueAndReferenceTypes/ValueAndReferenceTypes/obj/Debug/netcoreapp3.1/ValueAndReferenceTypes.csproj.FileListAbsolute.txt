@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueAndReferenceTypes.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueAndReferenceTypes.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueAndReferenceTypes.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueAndReferenceTypes.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueAndReferenceTypes.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\netcoreapp3.1\ValueAndReferenceTypes.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueAndReferenceTypes.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueAndReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueAndReferenceTypes.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueAndReferenceTypes.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueAndReferenceTypes.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp3.1\ValueAndReferenceTypes.genruntimeconfig.cache
