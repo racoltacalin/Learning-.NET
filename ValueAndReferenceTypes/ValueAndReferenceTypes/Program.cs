@@ -147,7 +147,43 @@ namespace ValueAndReferenceTypes
             Console.ReadLine();
             */
 
+            /*
+            // 3. A company dealing with marketing wants to keep a data record
+            // of its employees. Each record should have the following characteristic
+            // – first name, last name, age, gender (‘m’ or ‘f’) and
+            // unique employee number (27560000 to 27569999).
+            // Declare appropriate variables needed to maintain the information
+            // for an employee by using the appropriate data types and attribute names.
 
+            string firstName = "Calin";
+            string lastName = "Racolta";
+            int age = 30;
+            char gender = 'm';
+            int idNumber = 27560000;
+            */
+
+            /*
+            int a = 5;
+            int b = 4;
+            Console.WriteLine("a + b = {0}", a + b);
+            Console.WriteLine("a + (b++) = {0}", a + (b++));
+            Console.WriteLine("a + b = {0}", a + b);
+            Console.WriteLine("a + (++b) = {0}", a + (++b));
+            Console.WriteLine("a + b = {0}", a + b);
+            */
+
+            /*
+            byte a = 3;
+            byte b = 5;
+
+            Console.WriteLine(a | b);
+            Console.WriteLine(a & b); 
+            Console.WriteLine(a ^ b); 
+            Console.WriteLine(~a & b); 
+            Console.WriteLine(a << 1);
+            Console.WriteLine(a << 2);
+            Console.WriteLine(a >> 1);
+            */
         }
     }
 }
