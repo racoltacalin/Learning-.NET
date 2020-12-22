@@ -167,7 +167,7 @@ namespace ValueAndReferenceTypes
             int b = 4;
             Console.WriteLine("a + b = {0}", a + b);
             Console.WriteLine("a + (b++) = {0}", a + (b++));
-            Console.WriteLine("a + b = {0}", a + b);
+            Console.WriteLine("a + b = {0}", a + b); 
             Console.WriteLine("a + (++b) = {0}", a + (++b));
             Console.WriteLine("a + b = {0}", a + b);
             */
@@ -184,6 +184,87 @@ namespace ValueAndReferenceTypes
             Console.WriteLine(a << 2);
             Console.WriteLine(a >> 1);
             */
+
+            /*
+            // Example of implicit type conversion:
+
+            int myInt = 5;
+            Console.WriteLine("myInt = {0}", myInt);
+
+            long myLong = myInt;
+            Console.WriteLine("myLong = {0}", myLong);
+            Console.WriteLine("Result = {0}", myLong + myInt);
+            */
+
+            /*
+            // Example of explicit type conversion and data loss that may occur in some cases:
+            double myDouble = 5.1d;
+            Console.WriteLine("myDouble = {0}", myDouble);
+
+            long myLong = (long)myDouble;
+            Console.WriteLine("myLong = {0}", myLong);
+
+            myDouble = 5e9d;
+            Console.WriteLine("myDouble = {0}", myDouble);
+
+            int myInt = (int)myDouble;
+            Console.WriteLine("myInt = {0}", myInt);
+            Console.WriteLine("MinValue Of int = {0}", int.MinValue);
+            Console.WriteLine("Difference from myDouble to MinValueOfInt = {0}", myDouble - int.MinValue);
+            */
+
+            /*
+            //Example for data loss during type conversion:
+            long myLong = long.MaxValue;
+            int myInt = (int)myLong;
+
+            Console.WriteLine("myLong = {0}", myLong);
+            Console.WriteLine("myInt  = {0}", myInt);
+
+            float heightInMeters = 1.74f; // Explicit conversion
+            double maxHeight = heightInMeters; // Implicit conversion
+            double minHeight = (double)heightInMeters; // Explicit conversion
+            float actualHeight = (float)maxHeight; // Explicit conversion
+
+            //float maxHeightFloat = maxHeight; // Compilation Error!
+            */
+
+            /*
+            //Forcing Overflow Exceptions during Casting:
+            //This is done by the keyword checked which includes a check for overflow in integer types:
+            double d = 5e9d;
+            Console.WriteLine("d = {0}", d);
+
+            int i = checked((int)d);
+            Console.WriteLine("i = {0}", i);
+            */
+
+            /*
+            //examples for converting different data types to string: 
+            int a = 5;
+            int b = 7;
+
+            string sum = "Sum = " + (a + b);
+            Console.WriteLine("sum = {0}", sum);
+
+            String incorrect = "Sum = " + a + b;
+            Console.WriteLine("incorrect = {0}", incorrect);
+
+            Console.WriteLine("Perimeter = " + 2 * (a + b) + ". Area = " + (a * b) + ".");
+            */
+
+            /* 
+            // Side Effects of Expressions
+            int a = 5;
+            int b = ++a;
+
+            Console.WriteLine("a = {0}", a);
+            Console.WriteLine("b = {0}", b);
+            */
+
+
+
+
         }
     }
 }
