@@ -11,7 +11,9 @@ namespace Operators_And_Expressions
             //Check_Divisible();
             //Check_ThirdDigit();
             //Calculate_TheSumOfDigits();
-            Print_TheNumberInReversedOrder();
+            //Print_TheNumberInReversedOrder();
+            //Print_TheNumberInReversedOrder_StringFormat();
+            Puts_TheLastDigitInFirstPosition();
             Console.ReadLine();
         }
 
@@ -67,15 +69,15 @@ namespace Operators_And_Expressions
             int num;
             Console.Write("Please insert a four-digit number: ");
             num = Convert.ToInt32(Console.ReadLine());
-            int a = num % 10;
-            Console.WriteLine("The 4th digit is: {0}", a);
-            int b = (num / 10) % 10;
-            Console.WriteLine("The 3rd digit is: {0}", b);
-            int c = (num / 100) % 10;
-            Console.WriteLine("The 2nd digit is: {0}", c);
-            int d = (num / 1000) % 10;
-            Console.WriteLine("The 1st digit is: {0}", d);
-            int sum = a + b + c + d;
+            int lastDigit = num % 10;
+            Console.WriteLine("The 4th digit is: {0}", lastDigit);
+            int thirdDigit = (num / 10) % 10;
+            Console.WriteLine("The 3rd digit is: {0}", thirdDigit);
+            int secondDigit = (num / 100) % 10;
+            Console.WriteLine("The 2nd digit is: {0}", secondDigit);
+            int firstDigit = (num / 1000) % 10;
+            Console.WriteLine("The 1st digit is: {0}", firstDigit);
+            int sum = firstDigit + secondDigit + thirdDigit + lastDigit;
             Console.WriteLine("The sum of the digits is: {0}", sum);
         }
 
@@ -92,6 +94,39 @@ namespace Operators_And_Expressions
                 num = num / 10;
             }
             Console.WriteLine("The reversed number is {0}", reversedNumber);
+        }
+
+        public static void Print_TheNumberInReversedOrder_StringFormat()
+        {
+            string num = "", reverse = "";
+            int Length = 0;
+            Console.Write("Please insert a four-digit number: ");
+            num = Console.ReadLine();
+            Length = num.Length - 1;
+            while(Length >= 0)
+            {
+                reverse = reverse + num[Length];
+                Length--;
+            }
+            Console.WriteLine("Reverse num is {0}", reverse);
+        }
+
+        public static void Puts_TheLastDigitInFirstPosition()
+        {
+            int num;
+            Console.Write("Please insert a four-digit number: ");
+            num = Convert.ToInt32(Console.ReadLine());
+            int lastDigit = num % 10;
+            Console.WriteLine("The 4th digit is: {0}", lastDigit);
+            int thirdDigit = (num / 10) % 10;
+            Console.WriteLine("The 3rd digit is: {0}", thirdDigit);
+            int secondDigit = (num / 100) % 10;
+            Console.WriteLine("The 2nd digit is: {0}", secondDigit);
+            int firstDigit = (num / 1000) % 10;
+            Console.WriteLine("The 1st digit is: {0}", firstDigit);
+            int sum = firstDigit + secondDigit + thirdDigit + lastDigit;
+            Console.WriteLine("Last digit upfront: {0}{1}{2}{3}", lastDigit, firstDigit, secondDigit, thirdDigit);
+
         }
     }
 }
