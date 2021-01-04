@@ -13,7 +13,8 @@ namespace Operators_And_Expressions
             //Calculate_TheSumOfDigits();
             //Print_TheNumberInReversedOrder();
             //Print_TheNumberInReversedOrder_StringFormat();
-            Puts_TheLastDigitInFirstPosition();
+            //Puts_TheLastDigitInFirstPosition();
+            Prints_ValueOfTheBitOnGivenPosition();
             Console.ReadLine();
         }
 
@@ -126,7 +127,18 @@ namespace Operators_And_Expressions
             Console.WriteLine("The 1st digit is: {0}", firstDigit);
             int sum = firstDigit + secondDigit + thirdDigit + lastDigit;
             Console.WriteLine("Last digit upfront: {0}{1}{2}{3}", lastDigit, firstDigit, secondDigit, thirdDigit);
+        }
 
+        public static void Prints_ValueOfTheBitOnGivenPosition()
+        {
+            Console.Write("Please insert a number: ");
+            int num = Int32.Parse(Console.ReadLine());
+            Console.Write("Please insert a position number: ");
+            int positionNumber = Int32.Parse(Console.ReadLine());
+            int i = 1;
+            int mask = i << positionNumber; // Move the 1st bit left by positionNumber positions
+
+            Console.WriteLine((num & mask) != 0 ? 1 : 0);
         }
     }
 }
