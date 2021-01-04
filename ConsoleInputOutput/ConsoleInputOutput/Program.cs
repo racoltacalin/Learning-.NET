@@ -10,7 +10,9 @@ namespace ConsoleInputOutput
             //Check_NumberIsPrime();
             //Calculating_Factorial();
             //Calculate_Factorial_Using_DoWhile();
-            Find_Product_InRange();
+            //Find_Product_InRange();
+            //Sum_Of_Odds();
+            Check_ForEach();
             Console.ReadLine();
         }
 
@@ -50,6 +52,8 @@ namespace ConsoleInputOutput
             Console.Write(factorial);
         }
 
+        // Calculate the factorial of a given number n, but this time
+        // instead of an infinite while loop we will use a do-while.
         public static void Calculate_Factorial_Using_DoWhile()
         {
             Console.Write("n = ");
@@ -66,6 +70,7 @@ namespace ConsoleInputOutput
             Console.WriteLine(factorial);
         }
 
+        // The goal is to find the product of all numbers in the range [n…m].
         public static void Find_Product_InRange()
         {
             Console.Write("n = ");
@@ -84,6 +89,39 @@ namespace ConsoleInputOutput
             while (num <= n);
 
             Console.WriteLine("product[n...m] = " + product);
+        }
+
+        // Calculate the sum of all odd integers in the range [1…n],
+        // which are not divisible by 7 by using the for-loop
+        public static void Sum_Of_Odds()
+        {
+            Console.Write("n = ");
+            int n = int.Parse(Console.ReadLine());
+            int sum = 0;
+            for (int i = 1; i <=n; i += 2)
+            {
+                if (i % 7 == 0)
+                {
+                    continue;
+                }
+                sum += i;
+            }
+            Console.WriteLine("sum = " + sum);
+        }
+
+        public static void Check_ForEach()
+        {
+            int[] numbers = { 2, 3, 5, 7, 11, 13, 17, 18 };
+            foreach (int i in numbers)
+            {
+                Console.Write(" " + i);
+            }
+            Console.WriteLine();
+            string[] towns = { "London", "Paris", "Milan", "New York" };
+            foreach (string town in towns)
+            {
+                Console.Write(" " + town);
+            }
         }
     }
 }
