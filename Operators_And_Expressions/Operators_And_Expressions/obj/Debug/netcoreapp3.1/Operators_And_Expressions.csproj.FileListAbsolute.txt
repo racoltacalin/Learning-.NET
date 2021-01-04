@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\bin\Debug\netcoreapp3.1\Operators_And_Expressions.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\bin\Debug\netcoreapp3.1\Operators_And_Expressions.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\bin\Debug\netcoreapp3.1\Operators_And_Expressions.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\bin\Debug\netcoreapp3.1\Operators_And_Expressions.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\bin\Debug\netcoreapp3.1\Operators_And_Expressions.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\bin\Debug\netcoreapp3.1\Operators_And_Expressions.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\obj\Debug\netcoreapp3.1\Operators_And_Expressions.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\obj\Debug\netcoreapp3.1\Operators_And_Expressions.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\obj\Debug\netcoreapp3.1\Operators_And_Expressions.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\obj\Debug\netcoreapp3.1\Operators_And_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\obj\Debug\netcoreapp3.1\Operators_And_Expressions.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\obj\Debug\netcoreapp3.1\Operators_And_Expressions.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Operators_And_Expressions\Operators_And_Expressions\obj\Debug\netcoreapp3.1\Operators_And_Expressions.genruntimeconfig.cache
