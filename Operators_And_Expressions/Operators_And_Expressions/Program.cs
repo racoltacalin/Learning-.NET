@@ -9,7 +9,9 @@ namespace Operators_And_Expressions
 
             //Check_Odd();
             //Check_Divisible();
-            Check_ThirdDigit();
+            //Check_ThirdDigit();
+            //Calculate_TheSumOfDigits();
+            Print_TheNumberInReversedOrder();
             Console.ReadLine();
         }
 
@@ -58,7 +60,38 @@ namespace Operators_And_Expressions
             {
                 Console.WriteLine("The third digit right to left is NOT 7!");
             }
+        }
 
+        public static void Calculate_TheSumOfDigits()
+        {
+            int num;
+            Console.Write("Please insert a four-digit number: ");
+            num = Convert.ToInt32(Console.ReadLine());
+            int a = num % 10;
+            Console.WriteLine("The 4th digit is: {0}", a);
+            int b = (num / 10) % 10;
+            Console.WriteLine("The 3rd digit is: {0}", b);
+            int c = (num / 100) % 10;
+            Console.WriteLine("The 2nd digit is: {0}", c);
+            int d = (num / 1000) % 10;
+            Console.WriteLine("The 1st digit is: {0}", d);
+            int sum = a + b + c + d;
+            Console.WriteLine("The sum of the digits is: {0}", sum);
+        }
+
+        public static void Print_TheNumberInReversedOrder()
+        {
+            int num;
+            Console.Write("Please insert a four-digit number: ");
+            num = Int32.Parse(Console.ReadLine());
+            int reversedNumber = 0;
+            while(num > 0)
+            {
+                int remainder = num % 10;
+                reversedNumber = (reversedNumber * 10) + remainder;
+                num = num / 10;
+            }
+            Console.WriteLine("The reversed number is {0}", reversedNumber);
         }
     }
 }
