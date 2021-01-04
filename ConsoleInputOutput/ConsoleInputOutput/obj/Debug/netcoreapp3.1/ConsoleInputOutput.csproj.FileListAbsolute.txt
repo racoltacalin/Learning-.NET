@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\netcoreapp3.1\ConsoleInputOutput.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\netcoreapp3.1\ConsoleInputOutput.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\netcoreapp3.1\ConsoleInputOutput.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\netcoreapp3.1\ConsoleInputOutput.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\netcoreapp3.1\ConsoleInputOutput.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\netcoreapp3.1\ConsoleInputOutput.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\netcoreapp3.1\ConsoleInputOutput.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\netcoreapp3.1\ConsoleInputOutput.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\netcoreapp3.1\ConsoleInputOutput.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\netcoreapp3.1\ConsoleInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\netcoreapp3.1\ConsoleInputOutput.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\netcoreapp3.1\ConsoleInputOutput.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\netcoreapp3.1\ConsoleInputOutput.genruntimeconfig.cache
