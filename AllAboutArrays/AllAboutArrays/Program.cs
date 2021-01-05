@@ -13,7 +13,8 @@ namespace AllAboutArrays
             //Reversed_ByIndex();
             //Declare_MultidimensionalArray();
             //Reading_Matrix_FromConsole();
-            Find_The_SubMatrix();
+            //Find_The_SubMatrix();
+            Create_Pascal_Triangle();
             Console.ReadLine();
         }
 
@@ -177,6 +178,41 @@ namespace AllAboutArrays
             Console.WriteLine(" {0} {1}", matrix[bestRow, bestCol], matrix[bestRow, bestCol + 1]);
             Console.WriteLine(" {0} {1}", matrix[bestRow + 1, bestCol], matrix[bestRow + 1, bestCol + 1]);
             Console.WriteLine("The maximal sum is: {0}", bestSum);
+        }
+
+        public static void Create_Pascal_Triangle()
+        {
+            Console.WriteLine("Please insert the height of the Pasca's triangle: height = ");
+            int height = int.Parse(Console.ReadLine());
+
+            long[][] triangle = new long[height + 1][];
+
+            for (int row = 0; row < height; row++)
+            {
+                triangle[row] = new long[row + 1];
+            }
+
+            // Calculate the Pascal's triangle
+            triangle[0][0] = 1;
+            for (int row = 0; row < height - 1; row++)
+            {
+                for (int col = 0; col <= row; col++)
+                {
+                    triangle[row + 1][col] += triangle[row][col];
+                    triangle[row + 1][col + 1] += triangle[row][col];
+                }
+            }
+
+            // Print the Pascal's triangle
+            for (int row = 0; row < height; row++)
+            {
+                Console.Write("".PadLeft((height - row) * 2));
+                for (int col = 0; col <= row; col++)
+                {
+                    Console.Write("{0,3} ", triangle[row][col]);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
