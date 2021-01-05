@@ -8,7 +8,11 @@ namespace AllAboutArrays
         {
             //Reverse_Array();
             //Read_Array_From_Console();
-            Check_The_Symmetric_Array();
+            //Check_The_Symmetric_Array();
+            //Double_TheElement_OfArray();
+            //Reversed_ByIndex();
+            //Declare_MultidimensionalArray();
+            Reading_Matrix_FromConsole();
             Console.ReadLine();
         }
 
@@ -62,6 +66,81 @@ namespace AllAboutArrays
                 }
             }
             Console.WriteLine("Is symmetric? {0}", symmetric);
+        }
+
+        public static void Double_TheElement_OfArray()
+        {
+            int[] array = new int[] { 1, 2, 3, 4, 5 };
+            Console.Write("Output: ");
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] *= 2;
+                Console.Write(array[i] + " ");
+            }
+        }
+
+        public static void Reversed_ByIndex()
+        {
+            int[] array = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            Console.Write("Reversed: ");
+            for (int index = array.Length - 1; index >= 0; index--)
+            {
+                Console.Write(array[index] + " ");
+            }
+        }
+
+        public static void Declare_MultidimensionalArray()
+        {
+            int[,] intMatrix = new int[3, 4]; // rows, columns
+            int[,] matrix =
+            {
+                {1, 2, 3, 4 }, // row 0 - values
+                {5, 6, 7, 8 }, // row 1 - values
+            };
+            // The matrix size is 2 x 4 ( 2 rows, 4 cols ).
+            //Console.WriteLine(matrix.GetLength(0));
+            //Console.WriteLine(matrix.GetLength(1));
+
+            // Print the matrix on the console
+            for (int row = 0; row < matrix.GetLength(0); row++)
+            {
+                for (int col = 0; col < matrix.GetLength(1); col++)
+                {
+                    Console.Write(matrix[row, col] + " ");
+                }
+                Console.WriteLine();
+            }
+        }
+
+        public static void Reading_Matrix_FromConsole()
+        {
+            Console.Write("Enter the number of the rows: ");
+            int rows = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter the number of the columns: ");
+            int cols = int.Parse(Console.ReadLine());
+
+            int[,] matrix = new int[rows, cols];
+
+            Console.WriteLine("Enter the celss of the matrix: ");
+
+            for (int row = 0; row < rows; row++)
+            {
+                for (int col = 0; col < cols; col++)
+                {
+                    Console.Write("matrix[{0}, {1}] = ", row, col);
+                    matrix[row, col] = int.Parse(Console.ReadLine());
+                }
+            }
+
+            for (int row = 0; row < rows; row++)
+            {
+                for (int col = 0; col < cols; col++)
+                {
+                    Console.Write(" " + matrix[row, col]);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
