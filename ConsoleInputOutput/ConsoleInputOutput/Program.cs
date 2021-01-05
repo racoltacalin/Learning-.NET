@@ -12,7 +12,8 @@ namespace ConsoleInputOutput
             //Calculate_Factorial_Using_DoWhile();
             //Find_Product_InRange();
             //Sum_Of_Odds();
-            Check_ForEach();
+            //Check_ForEach();
+            Draw_Triangle();
             Console.ReadLine();
         }
 
@@ -121,6 +122,20 @@ namespace ConsoleInputOutput
             foreach (string town in towns)
             {
                 Console.Write(" " + town);
+            }
+        }
+
+        public static void Draw_Triangle()
+        {
+            Console.Write("Please insert the length of n:");
+            int n = int.Parse(Console.ReadLine());
+            for (int row = 1; row <= n; row++)
+            {
+                for (int col = 1; col <= row; col++)
+                {
+                    Console.Write(col + " ");
+                }
+                Console.WriteLine();    
             }
         }
     }
