@@ -13,7 +13,10 @@ namespace ConsoleInputOutput
             //Find_Product_InRange();
             //Sum_Of_Odds();
             //Check_ForEach();
-            Draw_Triangle();
+            //Draw_Triangle();
+            //Get_The_LuckyNumber();
+            //Get_The_LoterryNumber();
+            Get_The_LuckyNumber_While();
             Console.ReadLine();
         }
 
@@ -136,6 +139,72 @@ namespace ConsoleInputOutput
                     Console.Write(col + " ");
                 }
                 Console.WriteLine();    
+            }
+        }
+
+        public static void Get_The_LuckyNumber()
+        {
+            for (int a = 1; a <= 9; a++)
+            {
+                for (int b = 0; b <= 9 ; b++)
+                {
+                    for (int c = 0; c <= 9; c++)
+                    {
+                        for (int d = 0; d <= 9; d++)
+                        {
+                            if ((a + b) == (c + d))
+                            {
+                                Console.WriteLine(" " + a + " " + b + " " + c + " " + d);
+                            }
+                        }
+
+                    }
+
+                }
+
+            }
+        }
+
+        public static void Get_The_LoterryNumber()
+        {
+            for (int i1 = 1; i1 <= 44; i1++)
+            {
+                for (int i2 = i1 + 1; i2 <= 45; i2++)
+                {
+                    for (int i3 = i2 + 1; i3 <= 46; i3++)
+                    {
+                        for (int i4 = i3 + 1; i4 <= 47; i4++)
+                        {
+                            for (int i5 = i4 + 1; i5 <= 48; i5++)
+                            {
+                                for (int i6 = i5 + 1; i6 <= 49; i6++)
+                                {
+                                    Console.WriteLine(i1 + " " + i2 + " " + i3 + " " + i4 + " " + i5 + " " + i6);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        public static void Get_The_LuckyNumber_While()
+        {
+            int i = 1;
+            while (i < 10000)
+            {
+                i++;
+                if (i.ToString().Length == 4)
+                {
+                    int lastDigit = i % 10;
+                    int thirdDigit = (i / 10) % 10;
+                    int secondDigit = (i / 100) % 10;
+                    int firstDigit = (i / 1000) % 10;
+                    if ((firstDigit + secondDigit) == (thirdDigit + lastDigit))
+                    {
+                        Console.WriteLine(firstDigit + " " + secondDigit + " " + thirdDigit + " " + lastDigit);
+                    }
+                }
             }
         }
     }
