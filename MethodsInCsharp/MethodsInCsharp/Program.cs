@@ -39,7 +39,8 @@ namespace MethodsInCsharp
             Console.WriteLine("Sum3 is : " + sum3);
             */
 
-
+            PrintTotalAmountForBooksUsingParams(3m, 2.5m);
+            PrintTotalAmountForBooksUsingParams(1m, 2m, 3.5m, 7.5m);
 
             Console.ReadLine();
         }
@@ -51,7 +52,7 @@ namespace MethodsInCsharp
             return area;
         }
 
-        public static void PrintTotalAmountForBooks(decimal[] prices)
+        public static void PrintTotalAmountForBooks(decimal v, decimal[] prices)
         {
             decimal totalAmount = 0;
             foreach (decimal singleBookPrice in prices)
@@ -125,6 +126,18 @@ namespace MethodsInCsharp
                 sum += element;
             }
             return sum;
+        }
+
+        static void PrintTotalAmountForBooksUsingParams(params decimal[] prices)
+        {
+            decimal totalAmount = 0;
+
+            foreach (decimal singleBookPrice in prices)
+            {
+                totalAmount += singleBookPrice;
+            }
+
+            Console.WriteLine("The total amount of all books is: " + totalAmount);
         }
     }
 }
