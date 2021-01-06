@@ -63,6 +63,8 @@ namespace MethodsInCsharp
             }
             */
 
+            //CheckTheTemperature();
+            FindPeriodBetweenTwoMonths();
 
             Console.ReadLine();
         }
@@ -101,7 +103,7 @@ namespace MethodsInCsharp
         }
 
         static void PrintMax(float number1, float number2)
-        {   
+        {
             float max = number1;
 
             if (number2 > max)
@@ -224,7 +226,7 @@ namespace MethodsInCsharp
         }
 
         static void PrintTriangleOnMyOwn(int n)
-        {           
+        {
             // Printing the upper part of the triangle
             for (int line = 1; line <= n; line++)
             {
@@ -237,6 +239,97 @@ namespace MethodsInCsharp
             {
                 PrintLine(1, line);
             }
+        }
+
+        static void CheckTheTemperature()
+        {
+            Console.Write("Enter your body temperature in Fahrenheit degrees: ");
+            double temperature = double.Parse(Console.ReadLine());
+
+            temperature = ConvertFahrenheitToCelsius(temperature);
+
+            Console.WriteLine("Your body temperature in Celsius degrees is {0}.", temperature);
+
+            if (temperature >= 37)
+            {
+                Console.WriteLine("You have Corona!");
+            }
+        }
+
+        static double ConvertFahrenheitToCelsius(double temperatureF)
+        {
+            double temperatureC = (temperatureF - 32) * 5 / 9;
+            return temperatureC;
+        }
+
+        static string GetMonthName(int month)
+        {
+            string monthName;
+            switch (month)
+            {
+                case 1:
+                    monthName = "January";
+                    break;
+                case 2:
+                    monthName = "February";
+                    break;
+                case 3:
+                    monthName = "March";
+                    break;
+                case 4:
+                    monthName = "April";
+                    break;
+                case 5:
+                    monthName = "May";
+                    break;
+                case 6:
+                    monthName = "June";
+                    break;
+                case 7:
+                    monthName = "July";
+                    break;
+                case 8:
+                    monthName = "August";
+                    break;
+                case 9:
+                    monthName = "September";
+                    break;
+                case 10:
+                    monthName = "October";
+                    break;
+                case 11:
+                    monthName = "November";
+                    break;
+                case 12:
+                    monthName = "December";
+                    break;
+                default:
+                    Console.WriteLine("Invalid month!");
+                    return null;
+            }
+            return monthName;
+        }
+
+        static void SayPeriod(int startMonth, int endMonth)
+        {
+            int period = endMonth - startMonth;
+            if (period < 0)
+            {
+                // Fix negative distance
+                period = period + 12;
+            }
+            Console.WriteLine("There is {0} months period from {1} to {2}.", period, GetMonthName(startMonth), GetMonthName(endMonth));
+        }
+
+        static void FindPeriodBetweenTwoMonths()
+        {
+            Console.Write("First month (1-12): ");
+            int firstMonth = int.Parse(Console.ReadLine());
+
+            Console.Write("First month (1-12): ");
+            int secondMonth = int.Parse(Console.ReadLine());
+
+            SayPeriod(firstMonth, secondMonth);
         }
     }
 }
