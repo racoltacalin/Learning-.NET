@@ -28,7 +28,19 @@ namespace MethodsInCsharp
             PrintArray(arrArg);
             */
 
-            
+            /*
+            long sum1 = CalcSum(2, 5);
+            Console.WriteLine("Sum1 is : " + sum1);
+
+            long sum2 = CalcSum(4, 0, -2, 12);
+            Console.WriteLine("Sum2 is : " + sum2);
+
+            long sum3 = CalcSum();
+            Console.WriteLine("Sum3 is : " + sum3);
+            */
+
+
+
             Console.ReadLine();
         }
 
@@ -103,6 +115,16 @@ namespace MethodsInCsharp
                 }
             }
             Console.WriteLine("]");
+        }
+
+        static long CalcSum(params int[] elements)
+        {
+            long sum = 0;
+            foreach (int element in elements)
+            {
+                sum += element;
+            }
+            return sum;
         }
     }
 }
