@@ -6,14 +6,17 @@ namespace Numeral_Systems
     {
         static void Main(string[] args)
         {
-            //Sum_TheNumber();
+            //Pow_TheNumber();
             //Bitwise_And_ToCheck_EvenOrOdd();
             //Bitwise_OR_ToRaise_ByOne();
-            How_To_CreateErrors();
+            //How_To_CreateErrors();
+            //Sum_TheDoubleNumbers();
+            //Sum_TheFloatNumbers();
+            Sum_TheDecimalNumbers();
             Console.ReadLine();
         }
 
-        public static void Sum_TheNumber()
+        public static void Pow_TheNumber()
         {
             int a = 2;
             Console.WriteLine(Math.Pow(a, 15));
@@ -50,6 +53,37 @@ namespace Numeral_Systems
                 sum += 0.1f;
             }
             Console.WriteLine("Sum = {0}", sum);
+        }
+        public static void Sum_TheDoubleNumbers()
+        {
+            double sum = 0.0;
+            for (int i = 1; i <= 10; i++)
+            {
+                sum += 0.1;
+            }
+            Console.WriteLine("{0:r}", sum);
+            Console.WriteLine(sum);
+        }
+
+        public static void Sum_TheFloatNumbers()
+        {
+            float sum = 0.0f;
+            for (int i = 1; i <= 10; i++)
+            {
+                sum += 0.1f;
+            }
+            Console.WriteLine("{0:r}", sum);
+            Console.WriteLine(sum);
+        }
+
+        public static void Sum_TheDecimalNumbers()
+        {
+            decimal sum = 0.0m;
+            for (int i = 1; i <= 10000000; i++)
+            {
+                sum += 0.0000001m;
+            }
+            Console.WriteLine("The sum is: {0}", sum);
         }
     }
 }
