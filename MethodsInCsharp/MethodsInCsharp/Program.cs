@@ -39,8 +39,12 @@ namespace MethodsInCsharp
             Console.WriteLine("Sum3 is : " + sum3);
             */
 
-            PrintTotalAmountForBooksUsingParams(3m, 2.5m);
-            PrintTotalAmountForBooksUsingParams(1m, 2m, 3.5m, 7.5m);
+            //PrintTotalAmountForBooksUsingParams(3m, 2.5m);
+            //PrintTotalAmountForBooksUsingParams(1m, 2m, 3.5m, 7.5m);
+
+            PrintNumbers(2.71f, 2);
+            PrintNumbers(5, 3.14159f);
+            PrintNumbers((float)2, (short)3);
 
             Console.ReadLine();
         }
@@ -152,6 +156,16 @@ namespace MethodsInCsharp
         static void Draw(float number)
         {
             // Draw float number
+        }
+
+        // Overloaded Methods Invocation
+        static void PrintNumbers(int intValue, float floatValue)
+        {
+            Console.WriteLine(intValue + "; " + floatValue);
+        }
+        static void PrintNumbers(float floatValue, int intValue)
+        {
+            Console.WriteLine(floatValue + "; " + intValue);
         }
     }
 }
