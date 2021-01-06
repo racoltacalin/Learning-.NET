@@ -42,9 +42,12 @@ namespace MethodsInCsharp
             //PrintTotalAmountForBooksUsingParams(3m, 2.5m);
             //PrintTotalAmountForBooksUsingParams(1m, 2m, 3.5m, 7.5m);
 
-            PrintNumbers(2.71f, 2);
-            PrintNumbers(5, 3.14159f);
-            PrintNumbers((float)2, (short)3);
+            //PrintNumbers(2.71f, 2);
+            //PrintNumbers(5, 3.14159f);
+            //PrintNumbers((float)2, (short)3);
+
+            PrintTriangle();
+            PrintTriangle();
 
             Console.ReadLine();
         }
@@ -166,6 +169,35 @@ namespace MethodsInCsharp
         static void PrintNumbers(float floatValue, int intValue)
         {
             Console.WriteLine(floatValue + "; " + intValue);
+        }
+
+        // Triangles with Different Size
+        static void PrintTriangle()
+        {
+            // Entering the value of the variable n
+            Console.Write("n = ");
+            int n = int.Parse(Console.ReadLine());
+
+            // Printing the upper part of the triangle
+            for (int line = 1; line <= n; line++)
+            {
+                PrintLine(1, line);
+            }
+
+            // Printing the bottom part of the triangle
+            // that is under the longest line
+            for (int line = n - 1; line >= 1; line--)
+            {
+                PrintLine(1, line);
+            }
+        }
+        static void PrintLine(int start, int end)
+        {
+            for (int i = start; i <= end; i++)
+            {
+                Console.Write(i + " ");
+            }
+            Console.WriteLine();
         }
     }
 }
