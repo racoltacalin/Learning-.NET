@@ -139,5 +139,19 @@ namespace MethodsInCsharp
 
             Console.WriteLine("The total amount of all books is: " + totalAmount);
         }
+
+        // Method Overloading || Draw() is called overloaded!
+        static void Draw(string str)
+        {
+            // Draw string
+        }
+        static void Draw(int number)
+        {
+            // Draw integer
+        }
+        static void Draw(float number)
+        {
+            // Draw float number
+        }
     }
 }
