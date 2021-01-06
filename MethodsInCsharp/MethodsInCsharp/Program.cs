@@ -46,8 +46,23 @@ namespace MethodsInCsharp
             //PrintNumbers(5, 3.14159f);
             //PrintNumbers((float)2, (short)3);
 
-            PrintTriangle();
-            PrintTriangle();
+            //PrintTriangle();
+            //PrintTriangle();
+
+            /*
+            bool start = true;
+            int  end = 100;
+            while (start) 
+            {
+                int n = GetTheLenghtOfTriangle();
+                PrintTriangleOnMyOwn(n);
+                if (n == end)
+                {
+                    start = false;
+                }
+            }
+            */
+
 
             Console.ReadLine();
         }
@@ -198,6 +213,30 @@ namespace MethodsInCsharp
                 Console.Write(i + " ");
             }
             Console.WriteLine();
+        }
+
+        static int GetTheLenghtOfTriangle()
+        {
+            Console.Write("n = ");
+            int n = int.Parse(Console.ReadLine());
+            Console.WriteLine();
+            return n;
+        }
+
+        static void PrintTriangleOnMyOwn(int n)
+        {           
+            // Printing the upper part of the triangle
+            for (int line = 1; line <= n; line++)
+            {
+                PrintLine(1, line);
+            }
+
+            // Printing the bottom part of the triangle
+            // that is under the longest line
+            for (int line = n - 1; line >= 1; line--)
+            {
+                PrintLine(1, line);
+            }
         }
     }
 }
