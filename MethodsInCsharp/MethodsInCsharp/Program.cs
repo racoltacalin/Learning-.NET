@@ -7,7 +7,9 @@ namespace MethodsInCsharp
         static void Main(string[] args)
         {
             //GetRectangleArea(10, 20);
-            PrintTotalAmountForBooks(new decimal[] { 10, 10, 10 });
+            //PrintTotalAmountForBooks(new decimal[] { 10, 10, 10 });
+            //PrintSign(-5);
+            PrintMax(542, 642);
             Console.ReadLine();
         }
 
@@ -26,6 +28,33 @@ namespace MethodsInCsharp
                 totalAmount += singleBookPrice;
             }
             Console.WriteLine("The total amout for all books is: " + totalAmount);
+        }
+
+        static void PrintSign(int number)
+        {
+            if (number > 0)
+            {
+                Console.WriteLine("Positive");
+            }
+            else if (number < 0)
+            {
+                Console.WriteLine("Negative");
+            }
+            else
+            {
+                Console.WriteLine("Zero");
+            }
+        }
+
+        static void PrintMax(float number1, float number2)
+        {
+            float max = number1;
+
+            if (number2 > max)
+            {
+                max = number2;
+            }
+            Console.WriteLine("Maximal number: " + max);
         }
     }
 }
