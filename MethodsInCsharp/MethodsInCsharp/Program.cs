@@ -431,5 +431,20 @@ namespace MethodsInCsharp
             }
         }
 
+        static void SortingAlgorithm(int[] array)
+        {
+            for (int i = 0; i < array.Length - 1; i++)
+            {
+                for (int j = i + 1; j < array.Length; j++)
+                {
+                    if (array[i] < array[j])
+                    {
+                        int tmp = array[i];
+                        array[i] = array[j];
+                        array[j] = tmp;
+                    }
+                }
+            }
+        }
     }
 }
