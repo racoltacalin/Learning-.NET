@@ -64,7 +64,12 @@ namespace MethodsInCsharp
             */
 
             //CheckTheTemperature();
-            FindPeriodBetweenTwoMonths();
+
+            //FindPeriodBetweenTwoMonths();
+
+            //InputDataValidation();
+
+            SortingExample();
 
             Console.ReadLine();
         }
@@ -331,5 +336,100 @@ namespace MethodsInCsharp
 
             SayPeriod(firstMonth, secondMonth);
         }
+
+        static void InputDataValidation()
+        {
+            Console.WriteLine("What time is it?");
+
+            Console.Write("Hours: ");
+            int hours = int.Parse(Console.ReadLine());
+
+            Console.Write("Minutes:");
+            int minutes = int.Parse(Console.ReadLine());
+
+            bool isValidTime = ValidateHours(hours) && ValidateMinutes(minutes);
+            
+            if (isValidTime)
+            {
+                Console.WriteLine("The time is {0}:{1} now.", hours, minutes);
+            }
+            else
+            {
+                Console.WriteLine("Incorrect time!");
+            }
+        }
+
+        static bool ValidateHours(int hours)
+        {
+            bool result = (hours >= 0) && (hours < 24);
+            return result;
+        }
+
+        static bool ValidateMinutes(int minutes)
+        {
+            bool result = (minutes >= 0) && (minutes <= 59);
+            return result;
+        }
+
+
+        static void SortingExample()
+        {
+            Console.Write("Please insert number of elements in array: ");
+            int n = int.Parse(Console.ReadLine());
+
+            int[] numbers = GetNumberFromUser(n);
+
+            int[] sortedNumbers = Sort(numbers);
+
+            PrintSortedNumbers(sortedNumbers);
+        }
+
+
+
+        static int[] GetNumberFromUser(int n)
+        {
+            int[] numbers = new int[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write($"Number[{i}] = ");
+                numbers[i] = int.Parse(Console.ReadLine());
+            }
+
+            return numbers;
+        }
+
+        static int[] Sort(int[] numbers)
+        {
+            for (int i = 0; i < numbers.Length - 1; i++)
+            {
+                // Loop operating over the unsorted part of the array
+                for (int j = i + 1; j < numbers.Length; j++)
+                {
+                    // Swapping the values
+                    if (numbers[i] > numbers[j])
+                    {
+                        int tmp = numbers[i];
+                        numbers[i] = numbers[j];
+                        numbers[j] = tmp;
+                    }
+                }
+            }
+            return numbers;
+        }
+
+        static void PrintSortedNumbers(int[] numbers)
+        {
+            Console.Write("The sorted array is: ");
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                Console.Write("{0}", numbers[i]);
+                if ( i < (numbers.Length - 1))
+                {
+                    Console.Write(", ");
+                }
+            }
+        }
+
     }
 }
