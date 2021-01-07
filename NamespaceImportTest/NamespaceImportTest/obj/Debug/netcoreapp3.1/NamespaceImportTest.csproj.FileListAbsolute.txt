@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\bin\Debug\netcoreapp3.1\NamespaceImportTest.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\bin\Debug\netcoreapp3.1\NamespaceImportTest.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\bin\Debug\netcoreapp3.1\NamespaceImportTest.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\bin\Debug\netcoreapp3.1\NamespaceImportTest.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\bin\Debug\netcoreapp3.1\NamespaceImportTest.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\bin\Debug\netcoreapp3.1\NamespaceImportTest.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\obj\Debug\netcoreapp3.1\NamespaceImportTest.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\obj\Debug\netcoreapp3.1\NamespaceImportTest.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\obj\Debug\netcoreapp3.1\NamespaceImportTest.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\obj\Debug\netcoreapp3.1\NamespaceImportTest.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\obj\Debug\netcoreapp3.1\NamespaceImportTest.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\obj\Debug\netcoreapp3.1\NamespaceImportTest.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\NamespaceImportTest\NamespaceImportTest\obj\Debug\netcoreapp3.1\NamespaceImportTest.genruntimeconfig.cache
