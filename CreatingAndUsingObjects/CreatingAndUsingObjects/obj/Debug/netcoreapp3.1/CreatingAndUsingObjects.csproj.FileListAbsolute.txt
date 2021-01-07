@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\bin\Debug\netcoreapp3.1\CreatingAndUsingObjects.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\bin\Debug\netcoreapp3.1\CreatingAndUsingObjects.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\bin\Debug\netcoreapp3.1\CreatingAndUsingObjects.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\bin\Debug\netcoreapp3.1\CreatingAndUsingObjects.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\bin\Debug\netcoreapp3.1\CreatingAndUsingObjects.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\bin\Debug\netcoreapp3.1\CreatingAndUsingObjects.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\obj\Debug\netcoreapp3.1\CreatingAndUsingObjects.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\obj\Debug\netcoreapp3.1\CreatingAndUsingObjects.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\obj\Debug\netcoreapp3.1\CreatingAndUsingObjects.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\obj\Debug\netcoreapp3.1\CreatingAndUsingObjects.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\obj\Debug\netcoreapp3.1\CreatingAndUsingObjects.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\obj\Debug\netcoreapp3.1\CreatingAndUsingObjects.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\CreatingAndUsingObjects\CreatingAndUsingObjects\obj\Debug\netcoreapp3.1\CreatingAndUsingObjects.genruntimeconfig.cache
