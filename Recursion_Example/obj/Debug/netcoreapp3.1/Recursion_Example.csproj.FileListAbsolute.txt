@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\bin\Debug\netcoreapp3.1\Recursion_Example.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\bin\Debug\netcoreapp3.1\Recursion_Example.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\bin\Debug\netcoreapp3.1\Recursion_Example.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\bin\Debug\netcoreapp3.1\Recursion_Example.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\bin\Debug\netcoreapp3.1\Recursion_Example.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\bin\Debug\netcoreapp3.1\Recursion_Example.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\obj\Debug\netcoreapp3.1\Recursion_Example.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\obj\Debug\netcoreapp3.1\Recursion_Example.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\obj\Debug\netcoreapp3.1\Recursion_Example.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\obj\Debug\netcoreapp3.1\Recursion_Example.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\obj\Debug\netcoreapp3.1\Recursion_Example.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\obj\Debug\netcoreapp3.1\Recursion_Example.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\Recursion_Example\obj\Debug\netcoreapp3.1\Recursion_Example.genruntimeconfig.cache
