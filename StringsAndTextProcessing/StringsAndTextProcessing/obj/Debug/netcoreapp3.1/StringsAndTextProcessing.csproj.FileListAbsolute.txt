@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\netcoreapp3.1\StringsAndTextProcessing.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\netcoreapp3.1\StringsAndTextProcessing.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\netcoreapp3.1\StringsAndTextProcessing.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\netcoreapp3.1\StringsAndTextProcessing.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\netcoreapp3.1\StringsAndTextProcessing.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\netcoreapp3.1\StringsAndTextProcessing.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp3.1\StringsAndTextProcessing.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp3.1\StringsAndTextProcessing.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp3.1\StringsAndTextProcessing.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp3.1\StringsAndTextProcessing.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp3.1\StringsAndTextProcessing.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp3.1\StringsAndTextProcessing.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\netcoreapp3.1\StringsAndTextProcessing.genruntimeconfig.cache
