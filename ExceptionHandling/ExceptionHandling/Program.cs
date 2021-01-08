@@ -7,8 +7,37 @@ namespace ExceptionHandling
     {
         static void Main(string[] args)
         {
+            ImportFilesWithException();
+
+            //ImportFiles();
+        }
+
+        static void ImportFilesWithException()
+        {
+            try
+            {
+                string fileName = "WrongFileName.txt";
+                ReadFileWithoutException(fileName);
+            }
+            catch (Exception e)
+            {
+
+                throw new ApplicationException("Something bad happened!",e);
+            }
+        }
+
+        static void ImportFiles()
+        {
             string fileName = "WrongTextFile.txt";
             ReadFile(fileName);
+        }
+
+        static void ReadFileWithoutException(string fileName)
+        {
+            TextReader reader = new StreamReader(fileName);
+            string line = reader.ReadLine();
+            Console.WriteLine(line);
+            reader.Close();
         }
 
         static void ReadFile(string fileName)
