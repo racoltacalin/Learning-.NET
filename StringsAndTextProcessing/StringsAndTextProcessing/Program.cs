@@ -7,6 +7,54 @@ namespace StringsAndTextProcessing
     {
         static void Main(string[] args)
         {
+
+
+            /*
+            string doc = "Hello, some@gmail.com, " + "you have been using some@gmail.com in your registration.";
+            string fixedDoc = doc.Replace("some@gmail.com", "john@smith.com");
+            Console.WriteLine(fixedDoc);
+            */
+
+            /*
+            string listOfBeers = "Amstel, Heineken, Tuborg, Becks";
+            char[] separators = new char[] { ' ', ',', '.' };
+            string[] beersArr = listOfBeers.Split(separators);
+
+            foreach (string beer in beersArr)
+            {
+                if (beer != "")
+                {
+                    Console.WriteLine(beer);
+                }
+            }
+
+            string[] bbersArrWithoutSpaces = listOfBeers.Split(separators, StringSplitOptions.RemoveEmptyEntries);
+            */
+
+            /*
+            string path = "C:\\Pics\\CoolPic.jpg";
+            int index = path.LastIndexOf("\\");
+            string fullName = path.Substring(index + 1);
+            */
+
+            /*
+            string path = "C:\\Pics\\CoolPic.jpg";
+            string FileName = path.Substring(8, 7);
+            */
+
+            /*
+            string quote = "The main intent of the \"Intro C#\"" + " book is to introduce the C# programming to newbies.";
+            string keyword = "C#";
+            int index = quote.IndexOf(keyword);
+
+            while (index != -1)
+            {
+                Console.WriteLine("{0} found at index: {1}", keyword, index); 
+                index = quote.IndexOf(keyword, index + 1);
+            }
+            */
+
+            /*
             string str = "C# Programming Course";
 
             int index = str.IndexOf("C#");
@@ -16,6 +64,7 @@ namespace StringsAndTextProcessing
             index = str.IndexOf("r");
             index = str.IndexOf("r", 5);
             index = str.IndexOf("r", 10);
+            */
 
             /*
             string book = "Introduction to C# book";
