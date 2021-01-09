@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Text;
 using System.Text.RegularExpressions;
 
@@ -8,6 +9,26 @@ namespace StringsAndTextProcessing
     {
         static void Main(string[] args)
         {
+            string text = "11/12/2001";
+            string format = "MM/dd/yyyy";
+            DateTime parsedDate = DateTime.ParseExact(text, format, CultureInfo.InvariantCulture);
+            Console.WriteLine("Day: {0}\nMonth: {1}\nYear: {2}", parsedDate.Day, parsedDate.Month, parsedDate.Year);
+
+            /*
+            string text = "11/11/2001";
+            DateTime parsedDate = DateTime.Parse(text);
+            Console.WriteLine(parsedDate);
+            */
+
+            /*
+            string text = "53";
+            int intValue = int.Parse(text);
+            Console.WriteLine(intValue);
+
+            string textBool = "tRue";
+            bool boolValue = bool.Parse(textBool);
+            Console.WriteLine(boolValue);
+            */
 
             /*
             DateTime currentDate = DateTime.Now;
@@ -18,7 +39,7 @@ namespace StringsAndTextProcessing
             string sentance = "My name is John Elementary";
             Console.WriteLine(ExtractCapitals(sentance));
             */
-            
+
             /*
             string text = "EM edit";
             string reversed = ReverseText(text);
