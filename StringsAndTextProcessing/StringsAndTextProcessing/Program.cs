@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace StringsAndTextProcessing
 {
@@ -7,7 +8,44 @@ namespace StringsAndTextProcessing
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(DateTime.Now);
 
+            string collector = "Numbers: ";
+            for (int index = 1; index <= 200000; index++)
+            {
+                collector += index;
+            }
+
+            Console.WriteLine(collector.Substring(0, 1024));
+            Console.WriteLine(DateTime.Now);
+            
+            /*
+            string collector = "Numbers: ";
+            for (int index = 1; index <= 20000; index++)
+            {
+                collector += index;
+            }
+            Console.WriteLine(collector);
+            */
+
+            /*
+            fileData = " 111 $ % David Allen ### s ";
+            char[] trimChars = new char[] { ' ', '1', '$', '%', '#', 's' };
+            string reduced = fileData.Trim(trimChars);
+            Console.WriteLine(reduced);
+            */
+
+            /*
+            string fileData = " \n\n David Allen ";
+            string reduced = fileData.Trim();
+            Console.WriteLine(reduced);
+            */
+
+            /*
+            string doc = "Smith's number: 0898880022\nFranky can be " + "found at 0888445566.\nSteven's mobile number: 0887654321";
+            string replacedDoc = Regex.Replace(doc, "(08)[0-9]{8}", "$1********");
+            Console.WriteLine(replacedDoc);
+            */
 
             /*
             string doc = "Hello, some@gmail.com, " + "you have been using some@gmail.com in your registration.";
