@@ -7,13 +7,45 @@ namespace StringsAndTextProcessing
     {
         static void Main(string[] args)
         {
+            string str = "C# Programming Course";
 
+            int index = str.IndexOf("C#");
+            index = str.IndexOf("Course");
+            index = str.IndexOf("COURSE");
+            index = str.IndexOf("ram");
+            index = str.IndexOf("r");
+            index = str.IndexOf("r", 5);
+            index = str.IndexOf("r", 10);
 
+            /*
+            string book = "Introduction to C# book";
+            int index = book.IndexOf("C#");
+
+            Console.WriteLine(index);
+            */
+
+            /*
+            string pass1 = "PasswoRd";
+            string pass2 = "PaSSwoRD";
+            string pass3 = "password";
+
+            Console.WriteLine(pass1.ToUpper() == "PASSWORD");
+            Console.WriteLine(pass2.ToUpper() == "PASSWORD");
+            Console.WriteLine(pass3.ToUpper() == "PASSWORD");
+            */
+
+            /*
+            string text = "All Kind OF LeTTers";
+            Console.WriteLine(text.ToLower());
+            */
+
+            /*
             string declared = "Intern pool";
             string built = new StringBuilder("Intern pool").ToString();
             string interned = string.Intern(built);
             Console.WriteLine(object.ReferenceEquals(declared, built));
             Console.WriteLine(object.ReferenceEquals(declared, interned));
+            */
 
             /*
             string alpha = "alpha";
