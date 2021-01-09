@@ -8,11 +8,22 @@ namespace StringsAndTextProcessing
     {
         static void Main(string[] args)
         {
+
+            /*
+            DateTime currentDate = DateTime.Now;
+            Console.WriteLine(currentDate.ToString());
+            */
+
+            /*
+            string sentance = "My name is John Elementary";
+            Console.WriteLine(ExtractCapitals(sentance));
+            */
             
+            /*
             string text = "EM edit";
             string reversed = ReverseText(text);
             Console.WriteLine(reversed);
-            
+            */
 
             /*
             // StringBuilder in use!
@@ -205,6 +216,20 @@ namespace StringsAndTextProcessing
                 sb.Append(text[i]);
             }
             return sb.ToString();
+        }
+
+        static string ExtractCapitals(string str)
+        {
+            StringBuilder result = new StringBuilder();
+            for (int i = 0; i < str.Length; i++)
+            {
+                char ch = str[i];
+                if (char.IsUpper(ch))
+                {
+                    result.Append(ch);
+                }
+            }
+            return result.ToString();
         }
     }
 }
