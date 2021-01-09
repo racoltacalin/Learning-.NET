@@ -8,6 +8,29 @@ namespace StringsAndTextProcessing
     {
         static void Main(string[] args)
         {
+            
+            string text = "EM edit";
+            string reversed = ReverseText(text);
+            Console.WriteLine(reversed);
+            
+
+            /*
+            // StringBuilder in use!
+            Console.WriteLine(DateTime.Now);
+
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Numbers: ");
+
+            for (int index = 1; index <= 200000; index++)
+            {
+                sb.Append(index);
+            }
+
+            Console.WriteLine(sb.ToString().Substring(0, 1024));
+            Console.WriteLine(DateTime.Now);
+            */
+
+            /*
             Console.WriteLine(DateTime.Now);
 
             string collector = "Numbers: ";
@@ -18,7 +41,8 @@ namespace StringsAndTextProcessing
 
             Console.WriteLine(collector.Substring(0, 1024));
             Console.WriteLine(DateTime.Now);
-            
+            */
+
             /*
             string collector = "Numbers: ";
             for (int index = 1; index <= 20000; index++)
@@ -171,6 +195,16 @@ namespace StringsAndTextProcessing
                 Console.WriteLine("message[{0}] = {1}", i, message[i]);
             }
             */
+        }
+
+        static string ReverseText(string text)
+        {
+            StringBuilder sb = new StringBuilder();
+            for (int i = text.Length - 1; i >= 0; i--)
+            {
+                sb.Append(text[i]);
+            }
+            return sb.ToString();
         }
     }
 }
