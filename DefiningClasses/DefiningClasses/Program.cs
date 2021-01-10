@@ -1,12 +1,14 @@
 ﻿using System;
 
+
 namespace DefiningClasses
 {
     class Program
     {
         static void Main(string[] args)
         {
-            CreateDogs();
+            //CreateDogs();
+            CreateCat();
         }
 
         static void CreateDogs()
@@ -36,6 +38,16 @@ namespace DefiningClasses
             {
                 dog.Bark();
             }
+        }
+
+        static void CreateCat()
+        {
+            Cat cat = new Cat();
+
+            Console.WriteLine("Cat's name is: " + cat.name);
+            Console.WriteLine("Dog's age is: " + cat.age);
+            Console.WriteLine("Dog's length is: " + cat.length);
+            Console.WriteLine("Dog is male: " + cat.isMale);
         }
     }
 }
