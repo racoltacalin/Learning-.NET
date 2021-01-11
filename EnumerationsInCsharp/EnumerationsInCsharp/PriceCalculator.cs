@@ -6,9 +6,11 @@ namespace EnumerationsInCsharp
 {
     public class PriceCalculator
     {
+        /*
         public const int SmallCoffeeQuantity = 100;
         public const int NormalCoffeeQuantity = 150;
         public const int DoubleCoffeeQuantity = 300;
+        */
 
         public double CalcPrice(CoffeeSize coffeeSize)
         {
