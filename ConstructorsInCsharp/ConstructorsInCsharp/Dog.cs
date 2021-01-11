@@ -11,6 +11,8 @@ namespace ConstructorsInCsharp
         public double length;
         public Collar collar;
 
+        public static int dogCount;
+
         public int Age
         {
             get { return this.age; }
@@ -100,6 +102,10 @@ namespace ConstructorsInCsharp
             this.age = age;
             this.length = length;
             this.collar = collar;
+
+            // Modifying the static counter in the constructor
+            Dog.dogCount += 1;
+            //dogCount += 1;
         }
     }
 }
