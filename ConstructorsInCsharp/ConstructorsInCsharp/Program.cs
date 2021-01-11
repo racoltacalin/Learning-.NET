@@ -6,8 +6,16 @@ namespace ConstructorsInCsharp
     {
         static void Main(string[] args)
         {
+
+
+
+            Circle circle = new Circle(3);
+            circle.PrintSurface();
+
+            /*
             Cat myCat = new Cat("Catty", 2);
             myCat.PrintInfo();
+            */
 
             /*
             Dog dog1 = new Dog("Jackie", 1);
