@@ -7,8 +7,13 @@ namespace DefiningClasses
     {
         static void Main(string[] args)
         {
+            Pig myPig = new Pig(); 
+            
+            
+            /*
             OverlappingScopeTest instance = new OverlappingScopeTest();
             instance.PrintMyValue();
+            */
 
             /*
             Monkey myMonkey = new Monkey();
