@@ -7,9 +7,13 @@ namespace DefiningClasses
     {
         static void Main(string[] args)
         {
-            Pig myPig = new Pig(); 
-            
-            
+
+            Pig myPig = new Pig("Moby", 2, 0.4);  // Passing parameters
+            Console.WriteLine("My dog " + myPig.name + " is " + myPig.age + " year(s) old. " + " and it has length: " + myPig.length + " m.");
+
+
+            //Pig myPig = new Pig(); 
+
             /*
             OverlappingScopeTest instance = new OverlappingScopeTest();
             instance.PrintMyValue();
