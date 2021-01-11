@@ -7,10 +7,32 @@ namespace ConstructorsInCsharp
         static void Main(string[] args)
         {
 
+            int mondayValue = (int)Days.Mon;
+            Console.WriteLine("mondayValue = " + mondayValue);
 
+            //Console.WriteLine(Days.Mon is Days);
+            
+            //Point2D point = new Point2D(3, -2);
 
+            //Console.WriteLine(SqrtPrecalculated.GetSqrt(254));
+
+            /*
+            //SystemInfo sysInfoInstance = new SystemInfo();
+            //Console.WriteLine("System version: " + sysInfoInstance.Version);
+            
+            // Invocation of static property setter
+            SystemInfo.Vendor = "Microsoft Corporation";
+            
+            // Invocation of static property getters
+            Console.WriteLine("System version: " + SystemInfo.Version);
+            Console.WriteLine("System vendor: " + SystemInfo.Vendor);
+             */
+
+            /*
             Circle circle = new Circle(3);
             circle.PrintSurface();
+            */
+
 
             /*
             Cat myCat = new Cat("Catty", 2);
