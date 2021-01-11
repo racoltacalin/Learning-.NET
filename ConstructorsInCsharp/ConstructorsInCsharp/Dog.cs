@@ -11,6 +11,22 @@ namespace ConstructorsInCsharp
         public double length;
         public Collar collar;
 
+        public int Age
+        {
+            get { return this.age; }
+            set 
+            {
+                // Take precaution: perform check for correctness
+                if (value < 0)
+                {
+                    throw new ArgumentException("Invalid argument: Age should be a positive number.");
+                }
+
+                // Assign the new correct value
+                this.age = value;
+            }
+        }
+
         /*
         // One parameter
         public Dog(string name)
