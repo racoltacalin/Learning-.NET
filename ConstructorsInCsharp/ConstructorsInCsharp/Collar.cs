@@ -6,11 +6,11 @@ namespace ConstructorsInCsharp
 {
     public class Collar
     {
-        public int size;
+        private int size;
 
-        public Collar()
+        public int Size
         {
-
+            get { return size; }
         }
     }
 }

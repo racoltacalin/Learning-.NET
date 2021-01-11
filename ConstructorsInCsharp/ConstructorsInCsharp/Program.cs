@@ -6,7 +6,8 @@ namespace ConstructorsInCsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Collar collar = new Collar();
+            Dog myDog = new Dog();
         }
     }
 }

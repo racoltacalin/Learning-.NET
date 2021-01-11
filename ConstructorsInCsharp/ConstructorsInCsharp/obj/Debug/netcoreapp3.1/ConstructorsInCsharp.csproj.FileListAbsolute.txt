@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\bin\Debug\netcoreapp3.1\ConstructorsInCsharp.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\bin\Debug\netcoreapp3.1\ConstructorsInCsharp.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\bin\Debug\netcoreapp3.1\ConstructorsInCsharp.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\bin\Debug\netcoreapp3.1\ConstructorsInCsharp.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\bin\Debug\netcoreapp3.1\ConstructorsInCsharp.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\bin\Debug\netcoreapp3.1\ConstructorsInCsharp.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\obj\Debug\netcoreapp3.1\ConstructorsInCsharp.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\obj\Debug\netcoreapp3.1\ConstructorsInCsharp.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\obj\Debug\netcoreapp3.1\ConstructorsInCsharp.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\obj\Debug\netcoreapp3.1\ConstructorsInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\obj\Debug\netcoreapp3.1\ConstructorsInCsharp.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\obj\Debug\netcoreapp3.1\ConstructorsInCsharp.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ConstructorsInCsharp\ConstructorsInCsharp\obj\Debug\netcoreapp3.1\ConstructorsInCsharp.genruntimeconfig.cache
