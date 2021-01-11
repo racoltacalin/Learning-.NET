@@ -3,12 +3,21 @@
 
 namespace DefiningClasses
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            OverlappingScopeTest instance = new OverlappingScopeTest();
+            instance.PrintMyValue();
+
+            /*
+            Monkey myMonkey = new Monkey();
+            Console.WriteLine("My monky's name is" + myMonkey.name);
+            myMonkey.SayHello();
+            */
+
             //CreateDogs();
-            CreateCat();
+            //CreateCat();
         }
 
         static void CreateDogs()
