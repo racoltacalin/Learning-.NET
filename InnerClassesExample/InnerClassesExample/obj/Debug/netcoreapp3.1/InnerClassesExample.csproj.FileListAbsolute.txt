@@ -1,0 +1,12 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\bin\Debug\netcoreapp3.1\InnerClassesExample.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\bin\Debug\netcoreapp3.1\InnerClassesExample.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\bin\Debug\netcoreapp3.1\InnerClassesExample.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\bin\Debug\netcoreapp3.1\InnerClassesExample.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\bin\Debug\netcoreapp3.1\InnerClassesExample.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\bin\Debug\netcoreapp3.1\InnerClassesExample.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\obj\Debug\netcoreapp3.1\InnerClassesExample.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\obj\Debug\netcoreapp3.1\InnerClassesExample.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\obj\Debug\netcoreapp3.1\InnerClassesExample.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\obj\Debug\netcoreapp3.1\InnerClassesExample.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\obj\Debug\netcoreapp3.1\InnerClassesExample.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InnerClassesExample\InnerClassesExample\obj\Debug\netcoreapp3.1\InnerClassesExample.genruntimeconfig.cache
