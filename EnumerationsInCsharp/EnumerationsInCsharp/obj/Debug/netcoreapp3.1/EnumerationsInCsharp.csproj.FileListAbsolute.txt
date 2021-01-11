@@ -1,0 +1,12 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\bin\Debug\netcoreapp3.1\EnumerationsInCsharp.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\bin\Debug\netcoreapp3.1\EnumerationsInCsharp.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\bin\Debug\netcoreapp3.1\EnumerationsInCsharp.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\bin\Debug\netcoreapp3.1\EnumerationsInCsharp.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\bin\Debug\netcoreapp3.1\EnumerationsInCsharp.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\bin\Debug\netcoreapp3.1\EnumerationsInCsharp.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\obj\Debug\netcoreapp3.1\EnumerationsInCsharp.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\obj\Debug\netcoreapp3.1\EnumerationsInCsharp.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\obj\Debug\netcoreapp3.1\EnumerationsInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\obj\Debug\netcoreapp3.1\EnumerationsInCsharp.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\obj\Debug\netcoreapp3.1\EnumerationsInCsharp.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EnumerationsInCsharp\EnumerationsInCsharp\obj\Debug\netcoreapp3.1\EnumerationsInCsharp.genruntimeconfig.cache
