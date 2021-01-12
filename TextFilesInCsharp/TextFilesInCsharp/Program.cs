@@ -7,8 +7,11 @@ namespace TextFilesInCsharp
     {
         static void Main(string[] args)
         {
-            
-            WriteInFile();
+            Example.CountWord();
+
+            //ReadFileCatchingException();
+
+            //WriteInFile();
 
             //ReadFileLineByLine();
 
@@ -26,7 +29,6 @@ namespace TextFilesInCsharp
         static void ReadFileLineByLine()
         {
             string filePath = @"C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\Sample.txt";
-
             // Create an instance of StreamReader to read from a file
             StreamReader reader = new StreamReader(filePath);
 
@@ -79,6 +81,35 @@ namespace TextFilesInCsharp
                 {
                     writer.WriteLine(i);
                 }
+            }
+        }
+
+
+        public static void ReadFileCatchingException()
+        {
+            string fileName = @"C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\Sample1.txt";
+            try
+            {
+                StreamReader reader = new StreamReader(fileName);
+                Console.WriteLine("File {0} successfully opened.", fileName);
+                Console.WriteLine("File contents: ");
+                using (reader)
+                {
+                    Console.WriteLine(reader.ReadToEnd());
+                }
+            }
+            catch (FileNotFoundException)
+            {
+                Console.Error.WriteLine("Cant not find file {0}.", fileName);
+            }
+            catch (DirectoryNotFoundException)
+            {
+                Console.Error.WriteLine("Invalid directory in the file path.");
+            }
+            catch (IOException)
+            {
+                Console.Error.WriteLine(
+                "Can not open the file {0}", fileName);
             }
         }
     }
