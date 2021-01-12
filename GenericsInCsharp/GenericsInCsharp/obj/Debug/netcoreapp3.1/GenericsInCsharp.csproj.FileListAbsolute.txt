@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\bin\Debug\netcoreapp3.1\GenericsInCsharp.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\bin\Debug\netcoreapp3.1\GenericsInCsharp.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\bin\Debug\netcoreapp3.1\GenericsInCsharp.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\bin\Debug\netcoreapp3.1\GenericsInCsharp.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\bin\Debug\netcoreapp3.1\GenericsInCsharp.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\bin\Debug\netcoreapp3.1\GenericsInCsharp.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\obj\Debug\netcoreapp3.1\GenericsInCsharp.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\obj\Debug\netcoreapp3.1\GenericsInCsharp.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\obj\Debug\netcoreapp3.1\GenericsInCsharp.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\obj\Debug\netcoreapp3.1\GenericsInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\obj\Debug\netcoreapp3.1\GenericsInCsharp.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\obj\Debug\netcoreapp3.1\GenericsInCsharp.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\GenericsInCsharp\GenericsInCsharp\obj\Debug\netcoreapp3.1\GenericsInCsharp.genruntimeconfig.cache
