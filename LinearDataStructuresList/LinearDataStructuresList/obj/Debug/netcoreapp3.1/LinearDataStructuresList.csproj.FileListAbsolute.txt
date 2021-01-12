@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\bin\Debug\netcoreapp3.1\LinearDataStructuresList.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\bin\Debug\netcoreapp3.1\LinearDataStructuresList.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\bin\Debug\netcoreapp3.1\LinearDataStructuresList.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\bin\Debug\netcoreapp3.1\LinearDataStructuresList.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\bin\Debug\netcoreapp3.1\LinearDataStructuresList.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\bin\Debug\netcoreapp3.1\LinearDataStructuresList.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\obj\Debug\netcoreapp3.1\LinearDataStructuresList.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\obj\Debug\netcoreapp3.1\LinearDataStructuresList.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\obj\Debug\netcoreapp3.1\LinearDataStructuresList.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\obj\Debug\netcoreapp3.1\LinearDataStructuresList.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\obj\Debug\netcoreapp3.1\LinearDataStructuresList.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\obj\Debug\netcoreapp3.1\LinearDataStructuresList.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LinearDataStructuresList\LinearDataStructuresList\obj\Debug\netcoreapp3.1\LinearDataStructuresList.genruntimeconfig.cache
