@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\bin\Debug\netcoreapp3.1\TextFilesInCsharp.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\bin\Debug\netcoreapp3.1\TextFilesInCsharp.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\bin\Debug\netcoreapp3.1\TextFilesInCsharp.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\bin\Debug\netcoreapp3.1\TextFilesInCsharp.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\bin\Debug\netcoreapp3.1\TextFilesInCsharp.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\bin\Debug\netcoreapp3.1\TextFilesInCsharp.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\obj\Debug\netcoreapp3.1\TextFilesInCsharp.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\obj\Debug\netcoreapp3.1\TextFilesInCsharp.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\obj\Debug\netcoreapp3.1\TextFilesInCsharp.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\obj\Debug\netcoreapp3.1\TextFilesInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\obj\Debug\netcoreapp3.1\TextFilesInCsharp.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\obj\Debug\netcoreapp3.1\TextFilesInCsharp.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TextFilesInCsharp\TextFilesInCsharp\obj\Debug\netcoreapp3.1\TextFilesInCsharp.genruntimeconfig.cache
