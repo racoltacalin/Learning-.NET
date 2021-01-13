@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\bin\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\bin\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\bin\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\bin\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\bin\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\bin\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\obj\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\obj\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\obj\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\obj\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\obj\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\obj\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\RecursiveTraversalOfBinaryTree\RecursiveTraversalOfBinaryTree\obj\Debug\netcoreapp3.1\RecursiveTraversalOfBinaryTree.genruntimeconfig.cache
