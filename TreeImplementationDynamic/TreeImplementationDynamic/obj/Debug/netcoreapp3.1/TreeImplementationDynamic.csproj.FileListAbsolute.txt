@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\bin\Debug\netcoreapp3.1\TreeImplementationDynamic.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\bin\Debug\netcoreapp3.1\TreeImplementationDynamic.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\bin\Debug\netcoreapp3.1\TreeImplementationDynamic.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\bin\Debug\netcoreapp3.1\TreeImplementationDynamic.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\bin\Debug\netcoreapp3.1\TreeImplementationDynamic.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\bin\Debug\netcoreapp3.1\TreeImplementationDynamic.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\obj\Debug\netcoreapp3.1\TreeImplementationDynamic.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\obj\Debug\netcoreapp3.1\TreeImplementationDynamic.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\obj\Debug\netcoreapp3.1\TreeImplementationDynamic.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\obj\Debug\netcoreapp3.1\TreeImplementationDynamic.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\obj\Debug\netcoreapp3.1\TreeImplementationDynamic.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\obj\Debug\netcoreapp3.1\TreeImplementationDynamic.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\TreeImplementationDynamic\TreeImplementationDynamic\obj\Debug\netcoreapp3.1\TreeImplementationDynamic.genruntimeconfig.cache
