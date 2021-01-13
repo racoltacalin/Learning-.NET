@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearDataStructuresQueue", "LinearDataStructuresQueue\LinearDataStructuresQueue.csproj", "{EBD2BC76-9958-4560-B8F3-8E64D8901496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD2BC76-9958-4560-B8F3-8E64D8901496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD2BC76-9958-4560-B8F3-8E64D8901496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD2BC76-9958-4560-B8F3-8E64D8901496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD2BC76-9958-4560-B8F3-8E64D8901496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED7DCE3-A4F2-43D9-8D07-745E9CA0FEE3}
+	EndGlobalSection
+EndGlobal
