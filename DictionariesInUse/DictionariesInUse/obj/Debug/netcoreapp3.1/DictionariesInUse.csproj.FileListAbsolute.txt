@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\bin\Debug\netcoreapp3.1\DictionariesInUse.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\bin\Debug\netcoreapp3.1\DictionariesInUse.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\bin\Debug\netcoreapp3.1\DictionariesInUse.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\bin\Debug\netcoreapp3.1\DictionariesInUse.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\bin\Debug\netcoreapp3.1\DictionariesInUse.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\bin\Debug\netcoreapp3.1\DictionariesInUse.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\obj\Debug\netcoreapp3.1\DictionariesInUse.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\obj\Debug\netcoreapp3.1\DictionariesInUse.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\obj\Debug\netcoreapp3.1\DictionariesInUse.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\obj\Debug\netcoreapp3.1\DictionariesInUse.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\obj\Debug\netcoreapp3.1\DictionariesInUse.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\obj\Debug\netcoreapp3.1\DictionariesInUse.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DictionariesInUse\DictionariesInUse\obj\Debug\netcoreapp3.1\DictionariesInUse.genruntimeconfig.cache
