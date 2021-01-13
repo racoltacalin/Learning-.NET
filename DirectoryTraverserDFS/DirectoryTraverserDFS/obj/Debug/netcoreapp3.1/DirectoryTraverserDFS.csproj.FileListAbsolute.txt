@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\bin\Debug\netcoreapp3.1\DirectoryTraverserDFS.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserDFS\DirectoryTraverserDFS\obj\Debug\netcoreapp3.1\DirectoryTraverserDFS.genruntimeconfig.cache
