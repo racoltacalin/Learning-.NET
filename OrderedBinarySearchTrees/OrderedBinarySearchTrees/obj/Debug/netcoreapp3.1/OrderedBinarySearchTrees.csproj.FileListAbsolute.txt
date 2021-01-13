@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\obj\Debug\netcoreapp3.1\OrderedBinarySearchTrees.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\obj\Debug\netcoreapp3.1\OrderedBinarySearchTrees.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\obj\Debug\netcoreapp3.1\OrderedBinarySearchTrees.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\obj\Debug\netcoreapp3.1\OrderedBinarySearchTrees.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\bin\Debug\netcoreapp3.1\OrderedBinarySearchTrees.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\bin\Debug\netcoreapp3.1\OrderedBinarySearchTrees.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\bin\Debug\netcoreapp3.1\OrderedBinarySearchTrees.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\bin\Debug\netcoreapp3.1\OrderedBinarySearchTrees.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\bin\Debug\netcoreapp3.1\OrderedBinarySearchTrees.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\bin\Debug\netcoreapp3.1\OrderedBinarySearchTrees.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\obj\Debug\netcoreapp3.1\OrderedBinarySearchTrees.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\obj\Debug\netcoreapp3.1\OrderedBinarySearchTrees.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\OrderedBinarySearchTrees\OrderedBinarySearchTrees\obj\Debug\netcoreapp3.1\OrderedBinarySearchTrees.genruntimeconfig.cache
