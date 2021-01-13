@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\bin\Debug\netcoreapp3.1\ImplementationOfGraph.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\bin\Debug\netcoreapp3.1\ImplementationOfGraph.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\bin\Debug\netcoreapp3.1\ImplementationOfGraph.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\bin\Debug\netcoreapp3.1\ImplementationOfGraph.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\bin\Debug\netcoreapp3.1\ImplementationOfGraph.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\bin\Debug\netcoreapp3.1\ImplementationOfGraph.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\obj\Debug\netcoreapp3.1\ImplementationOfGraph.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\obj\Debug\netcoreapp3.1\ImplementationOfGraph.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\obj\Debug\netcoreapp3.1\ImplementationOfGraph.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\obj\Debug\netcoreapp3.1\ImplementationOfGraph.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\obj\Debug\netcoreapp3.1\ImplementationOfGraph.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\obj\Debug\netcoreapp3.1\ImplementationOfGraph.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ImplementationOfGraph\ImplementationOfGraph\obj\Debug\netcoreapp3.1\ImplementationOfGraph.genruntimeconfig.cache
