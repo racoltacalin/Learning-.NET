@@ -1,0 +1,12 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\bin\Debug\netcoreapp3.1\DirectoryTraverserBFS.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\bin\Debug\netcoreapp3.1\DirectoryTraverserBFS.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\bin\Debug\netcoreapp3.1\DirectoryTraverserBFS.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\bin\Debug\netcoreapp3.1\DirectoryTraverserBFS.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\bin\Debug\netcoreapp3.1\DirectoryTraverserBFS.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\bin\Debug\netcoreapp3.1\DirectoryTraverserBFS.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\obj\Debug\netcoreapp3.1\DirectoryTraverserBFS.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\obj\Debug\netcoreapp3.1\DirectoryTraverserBFS.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\obj\Debug\netcoreapp3.1\DirectoryTraverserBFS.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\obj\Debug\netcoreapp3.1\DirectoryTraverserBFS.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\obj\Debug\netcoreapp3.1\DirectoryTraverserBFS.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\DirectoryTraverserBFS\DirectoryTraverserBFS\obj\Debug\netcoreapp3.1\DirectoryTraverserBFS.genruntimeconfig.cache
