@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\bin\Debug\netcoreapp3.1\EstimateComplexity.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\bin\Debug\netcoreapp3.1\EstimateComplexity.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\bin\Debug\netcoreapp3.1\EstimateComplexity.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\bin\Debug\netcoreapp3.1\EstimateComplexity.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\bin\Debug\netcoreapp3.1\EstimateComplexity.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\bin\Debug\netcoreapp3.1\EstimateComplexity.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\obj\Debug\netcoreapp3.1\EstimateComplexity.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\obj\Debug\netcoreapp3.1\EstimateComplexity.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\obj\Debug\netcoreapp3.1\EstimateComplexity.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\obj\Debug\netcoreapp3.1\EstimateComplexity.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\obj\Debug\netcoreapp3.1\EstimateComplexity.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\obj\Debug\netcoreapp3.1\EstimateComplexity.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\EstimateComplexity\EstimateComplexity\obj\Debug\netcoreapp3.1\EstimateComplexity.genruntimeconfig.cache
