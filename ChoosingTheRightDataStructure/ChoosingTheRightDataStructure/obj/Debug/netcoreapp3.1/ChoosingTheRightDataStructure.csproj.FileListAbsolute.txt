@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\bin\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\bin\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\bin\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\bin\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\bin\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\bin\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\obj\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\obj\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\obj\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\obj\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\obj\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\obj\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ChoosingTheRightDataStructure\ChoosingTheRightDataStructure\obj\Debug\netcoreapp3.1\ChoosingTheRightDataStructure.genruntimeconfig.cache
