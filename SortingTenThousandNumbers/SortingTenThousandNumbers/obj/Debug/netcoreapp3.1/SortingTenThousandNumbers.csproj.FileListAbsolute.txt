@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\obj\Debug\netcoreapp3.1\SortingTenThousandNumbers.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\obj\Debug\netcoreapp3.1\SortingTenThousandNumbers.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\obj\Debug\netcoreapp3.1\SortingTenThousandNumbers.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\obj\Debug\netcoreapp3.1\SortingTenThousandNumbers.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\bin\Debug\netcoreapp3.1\SortingTenThousandNumbers.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\bin\Debug\netcoreapp3.1\SortingTenThousandNumbers.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\bin\Debug\netcoreapp3.1\SortingTenThousandNumbers.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\bin\Debug\netcoreapp3.1\SortingTenThousandNumbers.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\bin\Debug\netcoreapp3.1\SortingTenThousandNumbers.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\bin\Debug\netcoreapp3.1\SortingTenThousandNumbers.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\obj\Debug\netcoreapp3.1\SortingTenThousandNumbers.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\obj\Debug\netcoreapp3.1\SortingTenThousandNumbers.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\SortingTenThousandNumbers\SortingTenThousandNumbers\obj\Debug\netcoreapp3.1\SortingTenThousandNumbers.genruntimeconfig.cache
