@@ -26,5 +26,10 @@ namespace OOP_Inheritance
             get { return male; }
             set { this.male = value; }
         }
+
+        public virtual void Walk()
+        {
+            // ... 
+        }
     }
 }

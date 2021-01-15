@@ -40,6 +40,14 @@ namespace OOP_Inheritance
             // Property defined in Felidae
             bool male = africanLion.Male;
             africanLion.Male = true;
+
+            // Abstraction Example
+
+            Lion lion = new Lion(true, 150);
+            Felidae bigCat1 = lion;
+
+            AfricanLion africanLionBig = new AfricanLion(true, 250);
+            Felidae bigCat2 = africanLionBig;
         }
     }
 }
