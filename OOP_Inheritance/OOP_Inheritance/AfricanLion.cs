@@ -15,7 +15,14 @@ namespace OOP_Inheritance
 
         }
 
+        /*
         public override string ToString()
+        {
+            return string.Format("(AfricanLion, male: {0}, weight: {1})", this.Male, this.Weight);
+        }
+        */
+
+        public new string ToString()
         {
             return string.Format("(AfricanLion, male: {0}, weight: {1})", this.Male, this.Weight);
         }
