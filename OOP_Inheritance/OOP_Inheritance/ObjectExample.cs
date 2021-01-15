@@ -48,6 +48,27 @@ namespace OOP_Inheritance
 
             AfricanLion africanLionBig = new AfricanLion(true, 250);
             Felidae bigCat2 = africanLionBig;
+
+            // Abstract Class
+            Console.WriteLine();
+            AnimalOfAnimal cat = new Cat();
+            cat.PrintInformation();
+
+            // Virtual Methods
+            Console.WriteLine();
+            Lion lion1 = new Lion(true, 90);
+            lion1.CatchPrey(null);
+            // Will print "Lion.CatachPrey"
+
+            AfricanLion lion2 = new AfricanLion(true, 120);
+            lion2.CatchPrey(null);
+            // Will print "AfricanLion.CatchPrey"
+
+
+            Lion lion3 = new AfricanLion(false, 60);
+            lion3.CatchPrey(null);
+            // Will print "AfricanLion.CatchPrey", because
+            // the variable lion has a value of type AfricanLion
         }
     }
 }

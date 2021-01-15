@@ -44,5 +44,10 @@ namespace OOP_Inheritance
         {
             return new Lion[] { new Lion(true, 12), new Lion(false, 10) };
         }
+
+        public override void CatchPrey(object prey)
+        {
+            Console.WriteLine("Lion.CatchPrey");
+        }
     }
 }

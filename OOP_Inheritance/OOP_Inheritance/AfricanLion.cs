@@ -26,5 +26,10 @@ namespace OOP_Inheritance
         {
             return string.Format("(AfricanLion, male: {0}, weight: {1})", this.Male, this.Weight);
         }
+
+        public override void CatchPrey(object prey)
+        {
+            Console.WriteLine("AficanLion.CatachPrey");
+        }
     }
 }
