@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\bin\Debug\netcoreapp3.1\UnitTestingExample.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\bin\Debug\netcoreapp3.1\UnitTestingExample.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\bin\Debug\netcoreapp3.1\UnitTestingExample.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\bin\Debug\netcoreapp3.1\UnitTestingExample.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\bin\Debug\netcoreapp3.1\UnitTestingExample.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\bin\Debug\netcoreapp3.1\UnitTestingExample.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\obj\Debug\netcoreapp3.1\UnitTestingExample.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\obj\Debug\netcoreapp3.1\UnitTestingExample.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\obj\Debug\netcoreapp3.1\UnitTestingExample.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\obj\Debug\netcoreapp3.1\UnitTestingExample.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\obj\Debug\netcoreapp3.1\UnitTestingExample.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\obj\Debug\netcoreapp3.1\UnitTestingExample.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\UnitTestingExample\UnitTestingExample\obj\Debug\netcoreapp3.1\UnitTestingExample.genruntimeconfig.cache
