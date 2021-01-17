@@ -1,0 +1,12 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.genruntimeconfig.cache
