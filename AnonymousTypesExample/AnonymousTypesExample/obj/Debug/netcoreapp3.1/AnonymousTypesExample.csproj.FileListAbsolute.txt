@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\bin\Debug\netcoreapp3.1\AnonymousTypesExample.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\bin\Debug\netcoreapp3.1\AnonymousTypesExample.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\bin\Debug\netcoreapp3.1\AnonymousTypesExample.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\bin\Debug\netcoreapp3.1\AnonymousTypesExample.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\bin\Debug\netcoreapp3.1\AnonymousTypesExample.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\bin\Debug\netcoreapp3.1\AnonymousTypesExample.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\obj\Debug\netcoreapp3.1\AnonymousTypesExample.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\obj\Debug\netcoreapp3.1\AnonymousTypesExample.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\obj\Debug\netcoreapp3.1\AnonymousTypesExample.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\obj\Debug\netcoreapp3.1\AnonymousTypesExample.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\obj\Debug\netcoreapp3.1\AnonymousTypesExample.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\obj\Debug\netcoreapp3.1\AnonymousTypesExample.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\AnonymousTypesExample\AnonymousTypesExample\obj\Debug\netcoreapp3.1\AnonymousTypesExample.genruntimeconfig.cache
