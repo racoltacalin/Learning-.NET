@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\bin\Debug\netcoreapp3.1\LINQ.QUERIES.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\bin\Debug\netcoreapp3.1\LINQ.QUERIES.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\bin\Debug\netcoreapp3.1\LINQ.QUERIES.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\bin\Debug\netcoreapp3.1\LINQ.QUERIES.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\bin\Debug\netcoreapp3.1\LINQ.QUERIES.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\bin\Debug\netcoreapp3.1\LINQ.QUERIES.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\obj\Debug\netcoreapp3.1\LINQ.QUERIES.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\obj\Debug\netcoreapp3.1\LINQ.QUERIES.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\obj\Debug\netcoreapp3.1\LINQ.QUERIES.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\obj\Debug\netcoreapp3.1\LINQ.QUERIES.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\obj\Debug\netcoreapp3.1\LINQ.QUERIES.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\obj\Debug\netcoreapp3.1\LINQ.QUERIES.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQ.QUERIES\LINQ.QUERIES\obj\Debug\netcoreapp3.1\LINQ.QUERIES.genruntimeconfig.cache
