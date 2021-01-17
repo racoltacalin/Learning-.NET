@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.genruntimeconfig.cache
