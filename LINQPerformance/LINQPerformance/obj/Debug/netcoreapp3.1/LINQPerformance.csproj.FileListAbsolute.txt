@@ -1,0 +1,12 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\bin\Debug\netcoreapp3.1\LINQPerformance.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\bin\Debug\netcoreapp3.1\LINQPerformance.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\bin\Debug\netcoreapp3.1\LINQPerformance.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\bin\Debug\netcoreapp3.1\LINQPerformance.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\bin\Debug\netcoreapp3.1\LINQPerformance.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\bin\Debug\netcoreapp3.1\LINQPerformance.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\obj\Debug\netcoreapp3.1\LINQPerformance.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\obj\Debug\netcoreapp3.1\LINQPerformance.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\obj\Debug\netcoreapp3.1\LINQPerformance.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\obj\Debug\netcoreapp3.1\LINQPerformance.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\obj\Debug\netcoreapp3.1\LINQPerformance.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\LINQPerformance\LINQPerformance\obj\Debug\netcoreapp3.1\LINQPerformance.genruntimeconfig.cache
