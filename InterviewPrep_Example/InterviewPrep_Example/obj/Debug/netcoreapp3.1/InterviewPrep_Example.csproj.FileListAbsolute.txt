@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\bin\Debug\netcoreapp3.1\InterviewPrep_Example.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\bin\Debug\netcoreapp3.1\InterviewPrep_Example.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\bin\Debug\netcoreapp3.1\InterviewPrep_Example.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\bin\Debug\netcoreapp3.1\InterviewPrep_Example.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\bin\Debug\netcoreapp3.1\InterviewPrep_Example.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\bin\Debug\netcoreapp3.1\InterviewPrep_Example.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\obj\Debug\netcoreapp3.1\InterviewPrep_Example.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\obj\Debug\netcoreapp3.1\InterviewPrep_Example.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\obj\Debug\netcoreapp3.1\InterviewPrep_Example.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\obj\Debug\netcoreapp3.1\InterviewPrep_Example.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\obj\Debug\netcoreapp3.1\InterviewPrep_Example.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\obj\Debug\netcoreapp3.1\InterviewPrep_Example.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\InterviewPrep_Example\InterviewPrep_Example\obj\Debug\netcoreapp3.1\InterviewPrep_Example.genruntimeconfig.cache
