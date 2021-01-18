@@ -9,6 +9,7 @@ namespace InterviewPrep_Example
         // declare delegate
         public delegate void Print(int value);
 
+        /*
         static void Main(string[] args)
         {
             // Print delegate points to PrintNumber
@@ -31,6 +32,7 @@ namespace InterviewPrep_Example
             multiPrintDel = printNumDel - printMonDel;
             multiPrintDel(100);
         }
+        */
 
         public static void PrintNumber(int num)
         {
