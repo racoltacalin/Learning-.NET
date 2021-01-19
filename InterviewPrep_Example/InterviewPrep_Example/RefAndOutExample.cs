@@ -6,6 +6,7 @@ namespace InterviewPrep_Example
 {
     public class RefAndOutExample
     {
+        /*
         static void Main()
         {
             int val1 = 1;
@@ -26,5 +27,6 @@ namespace InterviewPrep_Example
         {
             value2 = 2;
         }
+        */
     }
 }
