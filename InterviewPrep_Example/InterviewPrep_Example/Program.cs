@@ -23,4 +23,33 @@ namespace InterviewPrep_Example
             obj.value = 33;
         }
     }
+
+    public class Dog
+    {
+        public string Name { get; set; }
+        public Dog(string name)
+        {
+            this.Name = name;
+        }
+        public void Bark()
+        {
+            Console.WriteLine("Dog barks...");
+        }
+    }
+
+    public class Beagle : Dog
+    {
+        public string Breed { get; set; }
+
+        public Beagle(string name, string breed) : base(name)
+        {
+            this.Breed = breed;
+        }
+
+        public void Hung()
+        {
+            Console.WriteLine("Beagle is a good hunter.");
+        }
+    }
+
 }
