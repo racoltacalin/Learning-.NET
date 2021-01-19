@@ -7,15 +7,26 @@ namespace InterviewPrep_Example
 {
     public class StackExample
     {
+        /*
         static void Main()
         {
             CreateStack();
         }
-
+        */
 
         public static void CreateStack()
         {
+            int[] myArray = { 1, 2, 3, 4, 5 };
+            for (int i = 0; i < myArray.Length - 1; i++)
+            {
+                Console.Write("{0} ", myArray[i]);
+            }
+
+            Console.WriteLine();
+
             Stack<int> newStack = new Stack<int>();
+
+
             newStack.Push(1);
             newStack.Push(2);
             newStack.Push(3);
