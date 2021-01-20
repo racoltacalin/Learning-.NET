@@ -1,0 +1,13 @@
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\bin\Debug\netcoreapp3.1\ProblemsForInterview.exe
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\bin\Debug\netcoreapp3.1\ProblemsForInterview.deps.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\bin\Debug\netcoreapp3.1\ProblemsForInterview.runtimeconfig.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\bin\Debug\netcoreapp3.1\ProblemsForInterview.runtimeconfig.dev.json
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\bin\Debug\netcoreapp3.1\ProblemsForInterview.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\bin\Debug\netcoreapp3.1\ProblemsForInterview.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\obj\Debug\netcoreapp3.1\ProblemsForInterview.csprojAssemblyReference.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\obj\Debug\netcoreapp3.1\ProblemsForInterview.AssemblyInfoInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\obj\Debug\netcoreapp3.1\ProblemsForInterview.AssemblyInfo.cs
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\obj\Debug\netcoreapp3.1\ProblemsForInterview.csproj.CoreCompileInputs.cache
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\obj\Debug\netcoreapp3.1\ProblemsForInterview.dll
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\obj\Debug\netcoreapp3.1\ProblemsForInterview.pdb
+C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ProblemsForInterview\ProblemsForInterview\obj\Debug\netcoreapp3.1\ProblemsForInterview.genruntimeconfig.cache
